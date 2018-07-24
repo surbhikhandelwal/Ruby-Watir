@@ -1,0 +1,266 @@
+# Logfile created on 2018-02-28 09:23:44 +0530 by logger.rb/56815
+I, [2018-02-28T09:23:47.354381 #30611]  INFO -- : https://www.justwatch.com/us/provider/netflix/new
+I, [2018-02-28T09:23:47.367904 #30611]  INFO -- : https://www.justwatch.com/us/provider/hulu/new
+I, [2018-02-28T09:23:47.616219 #30611]  INFO -- : https://www.justwatch.com/us/provider/amazon-prime-video/new
+I, [2018-02-28T09:23:47.798666 #30611]  INFO -- : https://www.justwatch.com/us/provider/yahoo-view/new
+I, [2018-02-28T09:23:47.808934 #30611]  INFO -- : https://www.justwatch.com/us/provider/amazon-instant-video/new
+I, [2018-02-28T09:23:48.527951 #30611]  INFO -- : https://www.justwatch.com/us/provider/hbo-now/new
+I, [2018-02-28T09:23:48.703713 #30611]  INFO -- : https://www.justwatch.com/us/provider/the-cw/new
+I, [2018-02-28T09:23:48.716457 #30611]  INFO -- : https://www.justwatch.com/us/provider/google-play-movies/new
+I, [2018-02-28T09:23:48.742231 #30611]  INFO -- : https://www.justwatch.com/us/provider/starz/new
+I, [2018-02-28T09:23:48.898629 #30611]  INFO -- : https://www.justwatch.com/us/provider/apple-itunes/new
+I, [2018-02-28T09:23:49.694850 #30611]  INFO -- : https://www.justwatch.com/us/provider/fandangonow/new
+I, [2018-02-28T09:23:49.713272 #30611]  INFO -- : https://www.justwatch.com/us/provider/vudu/new
+I, [2018-02-28T09:23:49.883328 #30611]  INFO -- : https://www.justwatch.com/us/provider/youtube-red/new
+I, [2018-02-28T09:23:49.895869 #30611]  INFO -- : https://www.justwatch.com/us/provider/cbs/new
+I, [2018-02-28T09:23:49.907447 #30611]  INFO -- : https://www.justwatch.com/us/provider/showtime/new
+I, [2018-02-28T09:23:50.542011 #30611]  INFO -- : https://www.justwatch.com/us/provider/fxnow/new
+I, [2018-02-28T09:23:50.628709 #30611]  INFO -- : https://www.justwatch.com/us/provider/tubi-tv/new
+I, [2018-02-28T09:23:50.647933 #30611]  INFO -- : https://www.justwatch.com/us/provider/playstation/new
+I, [2018-02-28T09:23:50.648190 #30611]  INFO -- : https://www.justwatch.com/us/provider/playstation/new
+I, [2018-02-28T09:23:52.144198 #30611]  INFO -- : https://www.justwatch.com/us/provider/microsoft-store/new
+I, [2018-02-28T09:23:52.169685 #30611]  INFO -- : https://www.justwatch.com/us/provider/max-go/new
+I, [2018-02-28T09:23:52.182601 #30611]  INFO -- : https://www.justwatch.com/us/provider/filmstruck/new
+I, [2018-02-28T09:23:52.197457 #30611]  INFO -- : https://www.justwatch.com/us/provider/hbo-go/new
+I, [2018-02-28T09:23:52.345352 #30611]  INFO -- : https://www.justwatch.com/us/provider/abc/new
+I, [2018-02-28T09:23:52.358880 #30611]  INFO -- : https://www.justwatch.com/us/provider/crackle/new
+I, [2018-02-28T09:23:52.369788 #30611]  INFO -- : https://www.justwatch.com/us/provider/amc/new
+I, [2018-02-28T09:23:52.381281 #30611]  INFO -- : https://www.justwatch.com/us/provider/fandor/new
+I, [2018-02-28T09:23:52.392796 #30611]  INFO -- : https://www.justwatch.com/us/provider/nbc/new
+I, [2018-02-28T09:23:52.478034 #30611]  INFO -- : https://www.justwatch.com/us/provider/epix/new
+I, [2018-02-28T09:23:52.527220 #30611]  INFO -- : https://www.justwatch.com/us/provider/history/new
+I, [2018-02-28T09:23:52.538486 #30611]  INFO -- : https://www.justwatch.com/us/provider/aande/new
+I, [2018-02-28T09:23:52.549968 #30611]  INFO -- : https://www.justwatch.com/us/provider/lifetime/new
+I, [2018-02-28T09:23:52.561620 #30611]  INFO -- : https://www.justwatch.com/us/provider/shudder/new
+I, [2018-02-28T09:23:52.573048 #30611]  INFO -- : https://www.justwatch.com/us/provider/screambox/new
+I, [2018-02-28T09:23:52.584504 #30611]  INFO -- : https://www.justwatch.com/us/provider/acorn-tv/new
+I, [2018-02-28T09:23:52.596251 #30611]  INFO -- : https://www.justwatch.com/us/provider/sundance-now/new
+I, [2018-02-28T09:23:52.608621 #30611]  INFO -- : https://www.justwatch.com/us/provider/britbox/new
+I, [2018-02-28T09:23:52.619712 #30611]  INFO -- : https://www.justwatch.com/us/provider/guidedoc/new
+I, [2018-02-28T09:23:52.634041 #30611]  INFO -- : https://www.justwatch.com/us/provider/realeyz/new
+I, [2018-02-28T09:23:52.646240 #30611]  INFO -- : https://www.justwatch.com/us/provider/mubi/new
+I, [2018-02-28T09:23:52.658633 #30611]  INFO -- : https://www.justwatch.com/us/provider/netflix-kids/new
+I, [2018-02-28T09:23:52.782942 #30611]  INFO -- : service can't be clicked
+I, [2018-02-28T09:23:52.925539 #30611]  INFO -- : tv show clicked
+I, [2018-02-28T09:24:02.531575 #30611]  INFO -- : 33
+I, [2018-02-28T09:24:02.531648 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>0}>
+I, [2018-02-28T09:24:02.543396 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>1}>
+I, [2018-02-28T09:24:02.552128 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>2}>
+I, [2018-02-28T09:24:02.563913 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>3}>
+I, [2018-02-28T09:24:02.575200 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>4}>
+I, [2018-02-28T09:24:02.584738 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>5}>
+I, [2018-02-28T09:24:02.596654 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>6}>
+I, [2018-02-28T09:24:02.608529 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>7}>
+I, [2018-02-28T09:24:02.617354 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>8}>
+I, [2018-02-28T09:24:02.628762 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>9}>
+I, [2018-02-28T09:24:02.637861 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>10}>
+I, [2018-02-28T09:24:02.649030 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>11}>
+I, [2018-02-28T09:24:02.659731 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>12}>
+I, [2018-02-28T09:24:02.668106 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>13}>
+I, [2018-02-28T09:24:02.679786 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>14}>
+I, [2018-02-28T09:24:02.691622 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>15}>
+I, [2018-02-28T09:24:02.700486 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>16}>
+I, [2018-02-28T09:24:02.712587 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>17}>
+I, [2018-02-28T09:24:02.722875 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>18}>
+I, [2018-02-28T09:24:02.732693 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>19}>
+I, [2018-02-28T09:24:02.743673 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>20}>
+I, [2018-02-28T09:24:02.752289 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>21}>
+I, [2018-02-28T09:24:02.763118 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>22}>
+I, [2018-02-28T09:24:02.773783 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>23}>
+I, [2018-02-28T09:24:02.783221 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>24}>
+I, [2018-02-28T09:24:02.794253 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>25}>
+I, [2018-02-28T09:24:02.803154 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>26}>
+I, [2018-02-28T09:24:02.813687 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>27}>
+I, [2018-02-28T09:24:02.825331 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>28}>
+I, [2018-02-28T09:24:02.840486 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>29}>
+I, [2018-02-28T09:24:02.850046 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>30}>
+I, [2018-02-28T09:24:02.861738 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>31}>
+I, [2018-02-28T09:24:02.870231 #30611]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>32}>
+I, [2018-02-28T09:24:02.881207 #30611]  INFO -- : ["https://www.justwatch.com/us/tv-show/izombie/season-4", "https://www.justwatch.com/us/tv-show/married-with-children/season-4", "https://www.justwatch.com/us/tv-show/married-with-children/season-1", "https://www.justwatch.com/us/tv-show/married-with-children/season-2", "https://www.justwatch.com/us/tv-show/married-with-children/season-3", "https://www.justwatch.com/us/tv-show/the-brokenwood-mysteries/season-1", "https://www.justwatch.com/us/tv-show/franklin-and-bash/season-2", "https://www.justwatch.com/us/tv-show/tales-of-zestiria-the-x/season-2", "https://www.justwatch.com/us/tv-show/for-the-people/season-1", "https://www.justwatch.com/us/tv-show/life-sentence/season-1", "https://www.justwatch.com/us/tv-show/sakura/season-1", "https://www.justwatch.com/us/tv-show/mud-men/season-1", "https://www.justwatch.com/us/tv-show/lucifer/season-3", "https://www.justwatch.com/us/tv-show/general-hospital/season-55", "https://www.justwatch.com/us/tv-show/the-resident/season-1", "https://www.justwatch.com/us/tv-show/the-voice/season-14", "https://www.justwatch.com/us/tv-show/the-bachelor/season-22", "https://www.justwatch.com/us/tv-show/shark-tank/season-9", "https://www.justwatch.com/us/tv-show/parenthood/season-6", "https://www.justwatch.com/us/tv-show/the-men-who-built-america/season-1", "https://www.justwatch.com/us/tv-show/glee/season-4", "https://www.justwatch.com/us/tv-show/glee/season-3", "https://www.justwatch.com/us/tv-show/my-little-nightmare/season-1", "https://www.justwatch.com/us/tv-show/my-strange-addiction/season-1", "https://www.justwatch.com/us/tv-show/good-girls/season-1"]
+I, [2018-02-28T09:24:09.842136 #30611]  INFO -- : Series title: iZombie
+I, [2018-02-28T09:24:09.919276 #30611]  INFO -- : Episode Details:  S4 E3
+I, [2018-02-28T09:24:10.119492 #30611]  INFO -- : Episode title:  Brainless in Seattle (1)
+I, [2018-02-28T09:24:10.119563 #30611]  INFO -- : EPI NUM: 3 SSN NUM: 4
+I, [2018-02-28T09:24:10.539251 #30611]  INFO -- : Release year:  2015
+I, [2018-02-28T09:24:10.539319 #30611]  INFO -- : []
+I, [2018-02-28T09:24:10.539340 #30611]  INFO -- : {}
+I, [2018-02-28T09:24:17.223784 #30611]  INFO -- : Series title: Married... with Children
+I, [2018-02-28T09:24:17.247470 #30611]  INFO -- : Episode Details:  S11 E24
+I, [2018-02-28T09:24:17.455803 #30611]  INFO -- : Episode title:  Chicago Shoe Exchange
+I, [2018-02-28T09:24:17.455882 #30611]  INFO -- : EPI NUM: 24 SSN NUM: 11
+I, [2018-02-28T09:24:17.897691 #30611]  INFO -- : Release year:  1987
+I, [2018-02-28T09:24:32.933972 #30611]  INFO -- : ["https://itunes.apple.com/us/tv-season/chicago-shoe-exchange/id561533673?i=565635149&ign-mpt=uo%3D4", "https://www.amazon.com/gp/product/B00HAWAX4O?camp=1789&creativeASIN=B00HAWAX4O&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://www.vudu.com/content/movies/details/title/309833"]
+I, [2018-02-28T09:24:32.934180 #30611]  INFO -- : {"itunes"=>["565635149"], "amazon"=>["B00HAWAX4O"], "vudu"=>["309833"]}
+I, [2018-02-28T09:24:39.699785 #30611]  INFO -- : Series title: Married... with Children
+I, [2018-02-28T09:24:39.725216 #30611]  INFO -- : Episode Details:  S11 E24
+I, [2018-02-28T09:24:39.890834 #30611]  INFO -- : Episode title:  Chicago Shoe Exchange
+I, [2018-02-28T09:24:39.890921 #30611]  INFO -- : EPI NUM: 24 SSN NUM: 11
+I, [2018-02-28T09:24:40.297171 #30611]  INFO -- : Release year:  1987
+I, [2018-02-28T09:24:48.462407 #30611]  INFO -- : ["https://itunes.apple.com/us/tv-season/chicago-shoe-exchange/id561533673?i=565635149&ign-mpt=uo%3D4", "https://www.amazon.com/gp/product/B00HAWAX4O?camp=1789&creativeASIN=B00HAWAX4O&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://www.vudu.com/content/movies/details/title/309833"]
+I, [2018-02-28T09:24:48.462601 #30611]  INFO -- : {"itunes"=>["565635149"], "amazon"=>["B00HAWAX4O"], "vudu"=>["309833"]}
+I, [2018-02-28T09:24:55.756926 #30611]  INFO -- : Series title: Married... with Children
+I, [2018-02-28T09:24:55.787291 #30611]  INFO -- : Episode Details:  S11 E24
+I, [2018-02-28T09:24:55.936954 #30611]  INFO -- : Episode title:  Chicago Shoe Exchange
+I, [2018-02-28T09:24:55.937025 #30611]  INFO -- : EPI NUM: 24 SSN NUM: 11
+I, [2018-02-28T09:24:56.345945 #30611]  INFO -- : Release year:  1987
+I, [2018-02-28T09:25:07.057614 #30611]  INFO -- : ["https://itunes.apple.com/us/tv-season/chicago-shoe-exchange/id561533673?i=565635149&ign-mpt=uo%3D4", "https://www.amazon.com/gp/product/B00HAWAX4O?camp=1789&creativeASIN=B00HAWAX4O&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://www.vudu.com/content/movies/details/title/309833"]
+I, [2018-02-28T09:25:07.057849 #30611]  INFO -- : {"itunes"=>["565635149"], "amazon"=>["B00HAWAX4O"], "vudu"=>["309833"]}
+I, [2018-02-28T09:25:13.742166 #30611]  INFO -- : Series title: Married... with Children
+I, [2018-02-28T09:25:13.767195 #30611]  INFO -- : Episode Details:  S11 E24
+I, [2018-02-28T09:25:13.916972 #30611]  INFO -- : Episode title:  Chicago Shoe Exchange
+I, [2018-02-28T09:25:13.917070 #30611]  INFO -- : EPI NUM: 24 SSN NUM: 11
+I, [2018-02-28T09:25:14.323629 #30611]  INFO -- : Release year:  1987
+I, [2018-02-28T09:25:21.885140 #30611]  INFO -- : ["https://itunes.apple.com/us/tv-season/chicago-shoe-exchange/id561533673?i=565635149&ign-mpt=uo%3D4", "https://www.amazon.com/gp/product/B00HAWAX4O?camp=1789&creativeASIN=B00HAWAX4O&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://www.vudu.com/content/movies/details/title/309833"]
+I, [2018-02-28T09:25:21.885487 #30611]  INFO -- : {"itunes"=>["565635149"], "amazon"=>["B00HAWAX4O"], "vudu"=>["309833"]}
+I, [2018-02-28T09:25:28.932687 #30611]  INFO -- : Series title: The Brokenwood Mysteries
+I, [2018-02-28T09:25:28.957483 #30611]  INFO -- : Episode Details:  S4 E4
+I, [2018-02-28T09:25:29.100470 #30611]  INFO -- : Episode title:  As If Nothing Had Happened
+I, [2018-02-28T09:25:29.100571 #30611]  INFO -- : EPI NUM: 4 SSN NUM: 4
+I, [2018-02-28T09:25:29.475239 #30611]  INFO -- : Release year:  2014
+I, [2018-02-28T09:25:29.475318 #30611]  INFO -- : []
+I, [2018-02-28T09:25:29.475346 #30611]  INFO -- : {}
+I, [2018-02-28T09:25:36.209418 #30611]  INFO -- : Series title: Franklin & Bash
+I, [2018-02-28T09:25:36.232028 #30611]  INFO -- : Episode Details:  S4 E10
+I, [2018-02-28T09:25:36.373902 #30611]  INFO -- : Episode title:  Red or Black
+I, [2018-02-28T09:25:36.373982 #30611]  INFO -- : EPI NUM: 10 SSN NUM: 4
+I, [2018-02-28T09:25:36.814322 #30611]  INFO -- : Release year:  2011
+I, [2018-02-28T09:25:58.264559 #30611]  INFO -- : ["https://www.amazon.com/gp/product/B00OACMEHQ?camp=1789&creativeASIN=B00OACMEHQ&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://itunes.apple.com/us/tv-season/red-or-black/id900548670?i=932460364&ign-mpt=uo%3D4", "https://www.vudu.com/content/movies/details/title/566440"]
+I, [2018-02-28T09:25:58.264673 #30611]  INFO -- : {"amazon"=>["B00OACMEHQ"], "itunes"=>["932460364"], "vudu"=>["566440"]}
+I, [2018-02-28T09:26:05.455683 #30611]  INFO -- : Series title: Tales of Zestiria the X
+I, [2018-02-28T09:26:05.480679 #30611]  INFO -- : Episode Details:  S2 E13
+I, [2018-02-28T09:26:05.616878 #30611]  INFO -- : Episode title:  Episode 13
+I, [2018-02-28T09:26:05.617155 #30611]  INFO -- : EPI NUM: 13 SSN NUM: 2
+I, [2018-02-28T09:26:05.965499 #30611]  INFO -- : Release year:  2016
+I, [2018-02-28T09:26:11.251577 #30611]  INFO -- : ["https://www.amazon.com/gp/product/B07B1SCVD8?camp=1789&creativeASIN=B07B1SCVD8&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://itunes.apple.com/us/tv-season/the-legend/id1345530170?i=1346409130&ign-mpt=uo%3D4"]
+I, [2018-02-28T09:26:11.251866 #30611]  INFO -- : {"amazon"=>["B07B1SCVD8"], "itunes"=>["1346409130"]}
+I, [2018-02-28T09:26:18.031005 #30611]  INFO -- : Series title: For The People
+I, [2018-02-28T09:26:18.055780 #30611]  INFO -- : Episode Details:  S1 E1
+I, [2018-02-28T09:26:18.182995 #30611]  INFO -- : Episode title:  Pilot
+I, [2018-02-28T09:26:18.183069 #30611]  INFO -- : EPI NUM: 1 SSN NUM: 1
+I, [2018-02-28T09:26:18.509739 #30611]  INFO -- : Release year:  2018
+I, [2018-02-28T09:26:23.650398 #30611]  INFO -- : ["https://www.amazon.com/gp/product/B07B3H1X5R?camp=1789&creativeASIN=B07B3H1X5R&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://itunes.apple.com/us/tv-season/for-the-people-season-1/id1348047276?ign-mpt=uo%3D4"]
+I, [2018-02-28T09:26:23.651360 #30611]  INFO -- : Exception captured undefined method `[]' for nil:NilClass
+I, [2018-02-28T09:26:23.651412 #30611]  INFO -- : {"amazon"=>["B07B3H1X5R"]}
+I, [2018-02-28T09:26:30.411946 #30611]  INFO -- : Series title: Life Sentence
+I, [2018-02-28T09:26:30.438925 #30611]  INFO -- : Episode Details:  S1 E1
+I, [2018-02-28T09:26:30.547111 #30611]  INFO -- : Episode title:  Pilot
+I, [2018-02-28T09:26:30.547193 #30611]  INFO -- : EPI NUM: 1 SSN NUM: 1
+I, [2018-02-28T09:26:30.841089 #30611]  INFO -- : Release year:  2018
+I, [2018-02-28T09:26:35.170715 #30611]  INFO -- : ["https://itunes.apple.com/us/tv-season/life-sentence-season-1/id1349999546?ign-mpt=uo%3D4", "https://www.amazon.com/gp/product/B07B3KWCGX?camp=1789&creativeASIN=B07B3KWCGX&ie=UTF8&linkCode=xm2&tag=justwatch09-20"]
+I, [2018-02-28T09:26:35.171720 #30611]  INFO -- : Exception captured undefined method `[]' for nil:NilClass
+I, [2018-02-28T09:26:35.171798 #30611]  INFO -- : {}
+I, [2018-02-28T09:26:42.099738 #30611]  INFO -- : Series title: Sakura
+I, [2018-02-28T09:26:42.134965 #30611]  INFO -- : Episode Details:  S1 E1
+I, [2018-02-28T09:26:42.322823 #30611]  INFO -- : Episode title:  Episode 1
+I, [2018-02-28T09:26:42.322922 #30611]  INFO -- : EPI NUM: 1 SSN NUM: 1
+I, [2018-02-28T09:26:42.625800 #30611]  INFO -- : Release year:  2002
+I, [2018-02-28T09:26:48.161402 #30611]  INFO -- : ["https://www.amazon.com/gp/product/B07B3N2WPZ?camp=1789&creativeASIN=B07B3N2WPZ&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://www.amazon.com/gp/product/B07B3N2WPZ?camp=1789&creativeASIN=B07B3N2WPZ&ie=UTF8&linkCode=xm2&tag=justwatch09-20"]
+I, [2018-02-28T09:26:48.161677 #30611]  INFO -- : {"amazon"=>["B07B3N2WPZ", "B07B3N2WPZ"]}
+I, [2018-02-28T09:26:54.955114 #30611]  INFO -- : Series title: Mud Men
+I, [2018-02-28T09:26:54.979194 #30611]  INFO -- : Episode Details:  S1 E8
+I, [2018-02-28T09:26:55.122280 #30611]  INFO -- : Episode title:  Medicine
+I, [2018-02-28T09:26:55.122353 #30611]  INFO -- : EPI NUM: 8 SSN NUM: 1
+I, [2018-02-28T09:26:55.459455 #30611]  INFO -- : Release year:  2011
+I, [2018-02-28T09:27:02.950888 #30611]  INFO -- : ["https://www.amazon.com/gp/product/B00VM1FUJ2?camp=1789&creativeASIN=B00VM1FUJ2&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://www.amazon.com/gp/product/B00VM1FUJ2?camp=1789&creativeASIN=B00VM1FUJ2&ie=UTF8&linkCode=xm2&tag=justwatch09-20"]
+I, [2018-02-28T09:27:02.951061 #30611]  INFO -- : {"amazon"=>["B00VM1FUJ2", "B00VM1FUJ2"]}
+I, [2018-02-28T09:27:10.118503 #30611]  INFO -- : Series title: Lucifer
+I, [2018-02-28T09:27:10.149540 #30611]  INFO -- : Episode Details:  S3 E15
+I, [2018-02-28T09:27:10.328403 #30611]  INFO -- : Episode title:  High School Poppycock
+I, [2018-02-28T09:27:10.328525 #30611]  INFO -- : EPI NUM: 15 SSN NUM: 3
+I, [2018-02-28T09:27:10.765179 #30611]  INFO -- : Release year:  2016
+I, [2018-02-28T09:27:37.387153 #30611]  INFO -- : ["https://www.hulu.com/start/affiliate?cmp=8869&utm_campaign=brand&utm_source=Rakuten&utm_medium=Affiliate&siteID=Hs39S7JJ7m0-DEv7cZXXKENNLgMXDuQ29w", "https://www.amazon.com/gp/product/B07B2YW879?camp=1789&creativeASIN=B07B2YW879&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://itunes.apple.com/us/tv-season/high-school-poppycock/id1271841240?i=1353069793&ign-mpt=uo%3D4", "https://www.vudu.com/content/movies/details/title/887374"]
+I, [2018-02-28T09:27:37.387771 #30611]  INFO -- : Exception captured undefined method `[]' for nil:NilClass
+I, [2018-02-28T09:27:37.387802 #30611]  INFO -- : {}
+I, [2018-02-28T09:27:44.109872 #30611]  INFO -- : Series title: General Hospital
+I, [2018-02-28T09:27:44.136778 #30611]  INFO -- : Episode Details:  S55 E226
+I, [2018-02-28T09:27:44.311990 #30611]  INFO -- : Episode title:  #14001
+I, [2018-02-28T09:27:44.312062 #30611]  INFO -- : EPI NUM: 226 SSN NUM: 55
+I, [2018-02-28T09:27:44.632733 #30611]  INFO -- : Release year:  1963
+I, [2018-02-28T09:27:56.911588 #30611]  INFO -- : ["https://www.hulu.com/start/affiliate?cmp=8869&utm_campaign=brand&utm_source=Rakuten&utm_medium=Affiliate&siteID=Hs39S7JJ7m0-Eg6ER3y6CnVVague_m3.Pg"]
+I, [2018-02-28T09:27:56.914076 #30611]  INFO -- : Exception captured undefined method `[]' for nil:NilClass
+I, [2018-02-28T09:27:56.914255 #30611]  INFO -- : {}
+I, [2018-02-28T09:28:03.635423 #30611]  INFO -- : Series title: The Resident
+I, [2018-02-28T09:28:03.666426 #30611]  INFO -- : Episode Details:  S1 E5
+I, [2018-02-28T09:28:03.830829 #30611]  INFO -- : Episode title:  None The Wiser
+I, [2018-02-28T09:28:03.830902 #30611]  INFO -- : EPI NUM: 5 SSN NUM: 1
+I, [2018-02-28T09:28:04.283769 #30611]  INFO -- : Release year:  2018
+I, [2018-02-28T09:28:26.438719 #30611]  INFO -- : ["https://www.hulu.com/start/affiliate?cmp=8869&utm_campaign=brand&utm_source=Rakuten&utm_medium=Affiliate&siteID=Hs39S7JJ7m0-eMBwG4dGOLeB0mrs5T59gw", "https://www.amazon.com/gp/product/B07B2Y3YSY?camp=1789&creativeASIN=B07B2Y3YSY&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://www.vudu.com/content/movies/details/title/916170"]
+I, [2018-02-28T09:28:26.439971 #30611]  INFO -- : Exception captured undefined method `[]' for nil:NilClass
+I, [2018-02-28T09:28:26.440065 #30611]  INFO -- : {}
+I, [2018-02-28T09:28:33.638343 #30611]  INFO -- : Series title: The Voice
+I, [2018-02-28T09:28:33.662495 #30611]  INFO -- : Episode Details:  S14 E1
+I, [2018-02-28T09:28:33.791931 #30611]  INFO -- : Episode title:  The Blind Auditions Season Premiere
+I, [2018-02-28T09:28:33.792000 #30611]  INFO -- : EPI NUM: 1 SSN NUM: 14
+I, [2018-02-28T09:28:34.105747 #30611]  INFO -- : Release year:  2011
+I, [2018-02-28T09:28:48.699912 #30611]  INFO -- : ["https://www.hulu.com/start/affiliate?cmp=8869&utm_campaign=brand&utm_source=Rakuten&utm_medium=Affiliate&siteID=Hs39S7JJ7m0-cXgs6V5UIyGDB29DWalmbA"]
+I, [2018-02-28T09:28:48.701950 #30611]  INFO -- : Exception captured undefined method `[]' for nil:NilClass
+I, [2018-02-28T09:28:48.702054 #30611]  INFO -- : {}
+I, [2018-02-28T09:28:55.402454 #30611]  INFO -- : Series title: The Bachelor
+I, [2018-02-28T09:28:55.427159 #30611]  INFO -- : Episode Details:  S22 E10
+I, [2018-02-28T09:28:55.580684 #30611]  INFO -- : Episode title:  Season 22, Episode 10
+I, [2018-02-28T09:28:55.580776 #30611]  INFO -- : EPI NUM: 10 SSN NUM: 22
+I, [2018-02-28T09:28:55.990609 #30611]  INFO -- : Release year:  2002
+I, [2018-02-28T09:29:01.179638 #30611]  INFO -- : ["https://www.amazon.com/gp/product/B07B2Q647P?camp=1789&creativeASIN=B07B2Q647P&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://itunes.apple.com/us/tv-season/the-women-tell-all/id1318390497?i=1352799327&ign-mpt=uo%3D4"]
+I, [2018-02-28T09:29:01.179769 #30611]  INFO -- : {"amazon"=>["B07B2Q647P"], "itunes"=>["1352799327"]}
+I, [2018-02-28T09:29:07.866874 #30611]  INFO -- : Series title: Shark Tank
+I, [2018-02-28T09:29:07.893380 #30611]  INFO -- : Episode Details:  S9 E24
+I, [2018-02-28T09:29:08.085042 #30611]  INFO -- : Episode title:  Episode 24
+I, [2018-02-28T09:29:08.085118 #30611]  INFO -- : EPI NUM: 24 SSN NUM: 9
+I, [2018-02-28T09:29:08.492660 #30611]  INFO -- : Release year:  2009
+I, [2018-02-28T09:29:35.090736 #30611]  INFO -- : ["https://www.hulu.com/start/affiliate?cmp=8869&utm_campaign=brand&utm_source=Rakuten&utm_medium=Affiliate&siteID=Hs39S7JJ7m0-nkV83RluTX7XRiVogwDdDA", "https://www.amazon.com/gp/product/B07B2JPNZ8?camp=1789&creativeASIN=B07B2JPNZ8&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://itunes.apple.com/us/tv-season/episode-24/id1273897897?i=1352777278&ign-mpt=uo%3D4", "https://www.vudu.com/content/movies/details/title/892455"]
+I, [2018-02-28T09:29:35.091354 #30611]  INFO -- : Exception captured undefined method `[]' for nil:NilClass
+I, [2018-02-28T09:29:35.091388 #30611]  INFO -- : {}
+I, [2018-02-28T09:29:42.339055 #30611]  INFO -- : Series title: Parenthood
+I, [2018-02-28T09:29:42.366482 #30611]  INFO -- : Episode Details:  S6 E13
+I, [2018-02-28T09:29:42.535297 #30611]  INFO -- : Episode title:  May God Bless and Keep You Always
+I, [2018-02-28T09:29:42.535368 #30611]  INFO -- : EPI NUM: 13 SSN NUM: 6
+I, [2018-02-28T09:29:42.986568 #30611]  INFO -- : Release year:  2010
+I, [2018-02-28T09:30:02.177431 #30611]  INFO -- : ["https://www.hulu.com/start/affiliate?cmp=8869&utm_campaign=brand&utm_source=Rakuten&utm_medium=Affiliate&siteID=Hs39S7JJ7m0-2L4_jmMkbzVnb1a0AO_eog", "https://www.vudu.com/content/movies/details/title/594264"]
+I, [2018-02-28T09:30:02.178540 #30611]  INFO -- : Exception captured undefined method `[]' for nil:NilClass
+I, [2018-02-28T09:30:02.178598 #30611]  INFO -- : {}
+I, [2018-02-28T09:30:08.995777 #30611]  INFO -- : Series title: The Men Who Built America
+I, [2018-02-28T09:30:09.020400 #30611]  INFO -- : Episode Details:  S1 E8
+I, [2018-02-28T09:30:09.172565 #30611]  INFO -- : Episode title:  The New Machine
+I, [2018-02-28T09:30:09.172636 #30611]  INFO -- : EPI NUM: 8 SSN NUM: 1
+I, [2018-02-28T09:30:09.581411 #30611]  INFO -- : Release year:  2012
+I, [2018-02-28T09:30:13.248585 #30611]  INFO -- : ["https://www.amazon.com/gp/product/B00A7B9D8W?camp=1789&creativeASIN=B00A7B9D8W&ie=UTF8&linkCode=xm2&tag=justwatch09-20"]
+I, [2018-02-28T09:30:13.248692 #30611]  INFO -- : {"amazon"=>["B00A7B9D8W"]}
+I, [2018-02-28T09:30:20.007946 #30611]  INFO -- : Series title: Glee
+I, [2018-02-28T09:30:20.036490 #30611]  INFO -- : Episode Details:  S6 E13
+I, [2018-02-28T09:30:20.196137 #30611]  INFO -- : Episode title:  Dreams Come True
+I, [2018-02-28T09:30:20.196206 #30611]  INFO -- : EPI NUM: 13 SSN NUM: 6
+I, [2018-02-28T09:30:20.754584 #30611]  INFO -- : Release year:  2009
+I, [2018-02-28T09:30:50.478286 #30611]  INFO -- : ["https://www.hulu.com/start/affiliate?cmp=8869&utm_campaign=brand&utm_source=Rakuten&utm_medium=Affiliate&siteID=Hs39S7JJ7m0-JrN2T7WUp9Rr3_IHvnxLOw", "https://www.amazon.com/gp/product/B00UMC3JRM?camp=1789&creativeASIN=B00UMC3JRM&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://www.amazon.com/gp/product/B00UMC3JRM?camp=1789&creativeASIN=B00UMC3JRM&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://itunes.apple.com/us/tv-season/dreams-come-true/id944313172?i=978772730&ign-mpt=uo%3D4", "https://www.vudu.com/content/movies/details/title/628053"]
+I, [2018-02-28T09:30:50.479204 #30611]  INFO -- : Exception captured undefined method `[]' for nil:NilClass
+I, [2018-02-28T09:30:50.479251 #30611]  INFO -- : {}
+I, [2018-02-28T09:30:57.674078 #30611]  INFO -- : Series title: Glee
+I, [2018-02-28T09:30:57.709430 #30611]  INFO -- : Episode Details:  S6 E13
+I, [2018-02-28T09:30:57.894742 #30611]  INFO -- : Episode title:  Dreams Come True
+I, [2018-02-28T09:30:57.894813 #30611]  INFO -- : EPI NUM: 13 SSN NUM: 6
+I, [2018-02-28T09:30:58.442225 #30611]  INFO -- : Release year:  2009
+I, [2018-02-28T09:31:23.264202 #30611]  INFO -- : ["https://www.hulu.com/start/affiliate?cmp=8869&utm_campaign=brand&utm_source=Rakuten&utm_medium=Affiliate&siteID=Hs39S7JJ7m0-FpjfK1v2J.pnknCKInyS.Q", "https://www.amazon.com/gp/product/B00UMC3JRM?camp=1789&creativeASIN=B00UMC3JRM&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://www.amazon.com/gp/product/B00UMC3JRM?camp=1789&creativeASIN=B00UMC3JRM&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://itunes.apple.com/us/tv-season/dreams-come-true/id944313172?i=978772730&ign-mpt=uo%3D4", "https://www.vudu.com/content/movies/details/title/628053"]
+I, [2018-02-28T09:31:23.264819 #30611]  INFO -- : Exception captured undefined method `[]' for nil:NilClass
+I, [2018-02-28T09:31:23.264854 #30611]  INFO -- : {}
+I, [2018-02-28T09:31:30.198687 #30611]  INFO -- : Series title: My Little Nightmare
+I, [2018-02-28T09:31:30.225820 #30611]  INFO -- : Episode Details:  S1 E11
+I, [2018-02-28T09:31:30.370513 #30611]  INFO -- : Episode title:  ドリー夢
+I, [2018-02-28T09:31:30.370582 #30611]  INFO -- : EPI NUM: 11 SSN NUM: 1
+I, [2018-02-28T09:31:30.747823 #30611]  INFO -- : Release year:  2012
+I, [2018-02-28T09:31:42.660020 #30611]  INFO -- : ["https://www.amazon.com/gp/product/B079Z1BVBS?camp=1789&creativeASIN=B079Z1BVBS&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://www.amazon.com/gp/product/B079Z1BVBS?camp=1789&creativeASIN=B079Z1BVBS&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://www.amazon.com/gp/product/B079Z2Q5TH?camp=1789&creativeASIN=B079Z2Q5TH&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://www.amazon.com/gp/product/B079YZ4XND?camp=1789&creativeASIN=B079YZ4XND&ie=UTF8&linkCode=xm2&tag=justwatch09-20"]
+I, [2018-02-28T09:31:42.660155 #30611]  INFO -- : {"amazon"=>["B079Z1BVBS", "B079Z1BVBS", "B079Z2Q5TH", "B079YZ4XND"]}
+I, [2018-02-28T09:31:49.531445 #30611]  INFO -- : Series title: My Strange Addiction
+I, [2018-02-28T09:31:49.555712 #30611]  INFO -- : Episode Details:  S6 E7
+I, [2018-02-28T09:31:49.713491 #30611]  INFO -- : Episode title:  Top 10 Most Shocking
+I, [2018-02-28T09:31:49.713610 #30611]  INFO -- : EPI NUM: 7 SSN NUM: 6
+I, [2018-02-28T09:31:50.182174 #30611]  INFO -- : Release year:  2010
+I, [2018-02-28T09:32:15.504522 #30611]  INFO -- : ["https://www.hulu.com/start/affiliate?cmp=8869&utm_campaign=brand&utm_source=Rakuten&utm_medium=Affiliate&siteID=Hs39S7JJ7m0-zpQZoPy1DiNWbSk68RkIhg", "https://www.amazon.com/gp/product/B00T6A40B0?camp=1789&creativeASIN=B00T6A40B0&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://itunes.apple.com/us/tv-season/top-10-most-shocking/id948929920?i=964430089&ign-mpt=uo%3D4", "https://www.vudu.com/content/movies/details/title/635190"]
+I, [2018-02-28T09:32:15.505130 #30611]  INFO -- : Exception captured undefined method `[]' for nil:NilClass
+I, [2018-02-28T09:32:15.505166 #30611]  INFO -- : {}
+I, [2018-02-28T09:32:22.661785 #30611]  INFO -- : Series title: Good Girls
+I, [2018-02-28T09:32:22.686706 #30611]  INFO -- : Episode Details:  S1 E1
+I, [2018-02-28T09:32:22.830597 #30611]  INFO -- : Episode title:  Pilot
+I, [2018-02-28T09:32:22.830665 #30611]  INFO -- : EPI NUM: 1 SSN NUM: 1
+I, [2018-02-28T09:32:23.468859 #30611]  INFO -- : Release year:  2018
+I, [2018-02-28T09:32:53.333727 #30611]  INFO -- : ["https://www.nbc.com/good-girls/video/pilot/3672870", "https://www.vudu.com/content/movies/details/title/921989", "https://www.amazon.com/gp/product/B07B2XXV56?camp=1789&creativeASIN=B07B2XXV56&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://www.nbc.com/good-girls/video/pilot/3672870", "https://itunes.apple.com/us/tv-season/good-girls-season-1/id1336273444?ign-mpt=uo%3D4", "https://www.amazon.com/gp/product/B079P8D1KM?camp=1789&creativeASIN=B079P8D1KM&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://www.vudu.com/content/movies/details/title/921986"]
+I, [2018-02-28T09:32:53.334328 #30611]  INFO -- : Exception captured undefined method `[]' for nil:NilClass
+I, [2018-02-28T09:32:53.334365 #30611]  INFO -- : {"nbc"=>["367287", "367287"], "vudu"=>["921989"], "amazon"=>["B07B2XXV56"]}

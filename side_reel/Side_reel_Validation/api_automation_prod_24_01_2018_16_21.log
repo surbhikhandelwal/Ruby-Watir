@@ -1,0 +1,37 @@
+# Logfile created on 2018-01-24 16:21:22 +0530 by logger.rb/54362
+I, [2018-01-24T16:21:24.282062 #14607]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2018-01-24T16:21:24.282123 #14607]  INFO -- : When get/put
+I, [2018-01-24T16:21:24.282436 #14607]  INFO -- : response_code_validation >>
+I, [2018-01-24T16:21:28.466612 #14607]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2018-01-24T16:21:28.466659 #14607]  INFO -- : When get/put
+I, [2018-01-24T16:21:28.466719 #14607]  INFO -- : response_code_validation >>
+I, [2018-01-24T16:21:41.415801 #14607]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2018-01-24T16:21:41.415870 #14607]  INFO -- : When get/put
+I, [2018-01-24T16:21:41.415910 #14607]  INFO -- : response_code_validation >>
+I, [2018-01-24T16:21:45.562139 #14607]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2018-01-24T16:21:45.562202 #14607]  INFO -- : When get/put
+I, [2018-01-24T16:21:45.562240 #14607]  INFO -- : response_code_validation >>
+I, [2018-01-24T16:21:49.835853 #14607]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2018-01-24T16:21:49.835920 #14607]  INFO -- : When get/put
+I, [2018-01-24T16:21:49.835961 #14607]  INFO -- : response_code_validation >>
+I, [2018-01-24T16:21:53.462671 #14607]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2018-01-24T16:21:53.462734 #14607]  INFO -- : When get/put
+I, [2018-01-24T16:21:53.462774 #14607]  INFO -- : response_code_validation >>
+I, [2018-01-24T16:22:00.733899 #14607]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2018-01-24T16:22:00.733961 #14607]  INFO -- : When get/put
+I, [2018-01-24T16:22:00.734003 #14607]  INFO -- : response_code_validation >>
+I, [2018-01-24T16:22:04.708633 #14607]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2018-01-24T16:22:04.708698 #14607]  INFO -- : When get/put
+I, [2018-01-24T16:22:04.708737 #14607]  INFO -- : response_code_validation >>
+I, [2018-01-24T16:22:08.883243 #14607]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2018-01-24T16:22:08.883316 #14607]  INFO -- : When get/put
+I, [2018-01-24T16:22:08.883353 #14607]  INFO -- : response_code_validation >>
+I, [2018-01-24T16:22:14.018347 #14607]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2018-01-24T16:22:14.018414 #14607]  INFO -- : When get/put
+I, [2018-01-24T16:22:14.018454 #14607]  INFO -- : response_code_validation >>
+I, [2018-01-24T16:22:37.566223 #14607]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2018-01-24T16:22:37.566298 #14607]  INFO -- : When get/put
+I, [2018-01-24T16:22:37.566339 #14607]  INFO -- : response_code_validation >>
+I, [2018-01-24T16:22:52.998869 #14607]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2018-01-24T16:22:52.998957 #14607]  INFO -- : When get/put
+I, [2018-01-24T16:22:52.999015 #14607]  INFO -- : response_code_validation >>

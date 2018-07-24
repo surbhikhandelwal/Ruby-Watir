@@ -1,0 +1,253 @@
+# Logfile created on 2017-12-29 14:02:19 +0530 by logger.rb/53141
+I, [2017-12-29T14:02:21.327206 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:02:21.327281 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:02:21.327789 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:02:27.152900 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:02:27.152956 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:02:27.152998 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:02:33.505581 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:02:33.505660 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:02:33.505711 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:02:37.965347 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:02:37.965433 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:02:37.965471 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:02:39.166933 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:02:39.167023 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:02:39.167060 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:02:40.936240 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:02:40.936331 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:02:40.936370 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:02:42.192811 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:02:42.192903 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:02:42.192943 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:02:43.437198 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:02:43.437246 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:02:43.437283 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:02:47.787881 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:02:47.787971 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:02:47.788011 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:02:51.394229 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:02:51.394297 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:02:51.394341 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:02:57.504356 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:02:57.504422 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:02:57.504470 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:03:01.198807 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:03:01.198900 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:03:01.198940 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:03:05.402007 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:03:05.402099 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:03:05.402138 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:03:11.482712 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:03:11.482781 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:03:11.482820 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:03:28.540254 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:03:28.540345 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:03:28.540385 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:04:11.506924 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:04:11.506995 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:04:11.507039 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:04:12.801328 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:04:12.801420 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:04:12.801460 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:04:14.093527 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:04:14.093585 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:04:14.093623 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:04:17.134971 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:04:17.135061 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:04:17.135099 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:04:28.312298 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:04:28.312367 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:04:28.312405 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:04:32.485218 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:04:32.485310 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:04:32.485350 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:04:37.402821 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:04:37.402914 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:04:37.402954 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:04:43.594536 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:04:43.594629 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:04:43.594670 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:04:49.398670 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:04:49.398720 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:04:49.398758 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:04:50.765151 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:04:50.765225 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:04:50.765269 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:04:53.884545 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:04:53.884637 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:04:53.884676 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:04:59.798286 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:04:59.798384 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:04:59.798424 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:05:01.078802 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:05:01.078890 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:05:01.078924 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:05:04.415290 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:05:04.415382 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:05:04.415423 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:05:05.857385 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:05:05.857481 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:05:05.857522 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:05:10.869294 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:05:10.869352 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:05:10.869391 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:05:12.321071 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:05:12.321130 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:05:12.321168 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:05:17.122060 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:05:17.122159 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:05:17.122202 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:05:21.444294 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:05:21.444385 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:05:21.444424 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:05:25.695235 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:05:25.695288 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:05:25.695326 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:05:32.916676 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:05:32.916742 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:05:32.916782 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:05:36.368604 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:05:36.368695 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:05:36.368734 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:05:41.365891 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:05:41.365984 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:05:41.366022 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:05:47.232680 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:05:47.232745 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:05:47.232813 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:05:51.875310 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:05:51.875376 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:05:51.875418 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:05:53.318742 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:05:53.318801 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:05:53.318840 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:05:59.682565 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:05:59.682634 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:05:59.682674 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:06:01.176858 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:06:01.176912 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:06:01.176952 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:06:02.651422 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:06:02.651474 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:06:02.651511 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:06:07.282912 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:06:07.283001 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:06:07.283041 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:06:11.446904 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:06:11.446996 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:06:11.447035 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:06:17.218050 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:06:17.218104 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:06:17.218143 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:06:20.720305 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:06:20.720371 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:06:20.720430 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:06:24.626505 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:06:24.626575 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:06:24.626614 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:06:29.445575 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:06:29.445668 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:06:29.445709 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:06:33.352233 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:06:33.352309 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:06:33.352348 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:06:37.187176 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:06:37.187279 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:06:37.190245 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:06:41.015613 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:06:41.015677 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:06:41.015717 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:06:45.405924 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:06:45.406014 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:06:45.406052 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:07:13.185689 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:07:13.185784 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:07:13.185824 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:07:14.670221 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:07:14.670279 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:07:14.670335 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:07:15.994029 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:07:15.994119 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:07:15.994156 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:07:17.248430 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:07:17.248521 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:07:17.248559 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:07:18.518401 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:07:18.518493 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:07:18.518532 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:07:25.104796 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:07:25.104887 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:07:25.104927 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:07:26.712338 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:07:26.712429 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:07:26.712470 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:07:28.374850 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:07:28.374940 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:07:28.374980 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:07:29.709490 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:07:29.709574 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:07:29.709613 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:07:30.947889 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:07:30.947940 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:07:30.947977 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:07:35.287089 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:07:35.287156 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:07:35.287202 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:07:38.670493 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:07:38.670559 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:07:38.670597 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:07:46.602941 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:07:46.603009 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:07:46.603052 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:07:50.519020 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:07:50.519080 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:07:50.519115 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:08:01.081260 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:08:01.081329 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:08:01.081369 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:08:05.812393 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:08:05.812462 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:08:05.812504 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:08:11.230521 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:08:11.230586 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:08:11.230620 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:08:14.309550 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:08:14.309608 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:08:14.309649 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:08:20.279994 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:08:20.280054 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:08:20.280097 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:08:24.140273 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:08:24.140344 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:08:24.140385 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:08:33.197352 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:08:33.197411 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:08:33.197446 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:08:38.080587 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:08:38.080645 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:08:38.080689 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:08:39.541837 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:08:39.541905 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:08:39.541944 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:08:47.009728 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:08:47.009783 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:08:47.009825 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:08:51.885108 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:08:51.885178 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:08:51.885218 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:09:01.281449 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:09:01.281504 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:09:01.281538 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:09:04.467602 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:09:04.467682 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:09:04.467724 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:09:08.286175 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:09:08.286236 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:09:08.286279 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:09:11.619509 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:09:11.619577 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:09:11.619617 #31618]  INFO -- : response_code_validation >>
+I, [2017-12-29T14:09:15.667726 #31618]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2017-12-29T14:09:15.667792 #31618]  INFO -- : When get/put
+I, [2017-12-29T14:09:15.667827 #31618]  INFO -- : response_code_validation >>

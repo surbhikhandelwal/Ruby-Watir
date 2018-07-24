@@ -1,0 +1,148 @@
+request_headers:
+  'User-Agent': 'Branch Octive v6.1.66'
+  'Host': ""
+  'Accept': 'application/json'
+  'Content-Type': 'application/json'
+
+authorization_request_header  :  
+  directv: 'Token token=efeb15f572641809acbc0c26c9c1b63f4f7f1fd7dcb68070e45e26f3a40ec8e3'
+  dish: 'Token token=917c5aac1a2970a41b64a811e0b66877a9499e11e00c40d7f7ac341837061cd4'
+  xfinity: 'Token token=cb5449393c0735b4aecc7894415d27045f8162ab68601804dfaaf454d189d182'
+  att: 'Token token=6ecc5f9d2f65b66c8ed8edf7ed266fce616bff118c9324bf8de697b1c188efe4'
+
+expected_response: 200
+expected_response_post: 201
+expected_response_delete: 204
+expected_response_notmodified: 304
+expected_response_notfound: 404
+
+rovi_metadata_schema:
+  expected_program_schema: "id: :integer,show_type: :string,series_id: :int_or_null,season_program_id: :string_or_null,variant_parent_id: :string_or_null,title_parent_id: :string_or_null,group_id: :integer_or_null,is_group_language_primary: :boolean,group_size: :integer,long_title: :string,medium_title: :string,short_title: :string,grid_title: :string,original_title: :string,original_episode_title: :string,category: :string,sports_subtitle: :string,episode_title: :string,episode_number: :string,run_time: :integer,release_year: :integer_or_null,record_language: :string,event_date: :string,hdtv_level: :string,audio_level: :string,threed_level: :string,movie_type: :string,color_type: :string,official_program_url: :string,additional_program_url: :string,part_number: :integer_or_null,total_number_of_parts: :integer_or_null,iso_3_char_language: :string,description: :array_of_objects_or_null,movie_rating: :object_or_null,tv_rating: :object_or_null,genres: :array_of_strings_or_null,services: :array_of_strings_or_null,air_date: :array_of_objects_or_null,release_date: :array_of_objects_or_null,images: :array_of_objects_or_null,external_ratings: :array_of_objects_or_null,alias_title: :string,alias_title_2: :string,alias_title_3: :string,alias_title_4: :string"
+  expected_description_schema: "program_description: :string,program_description_type: :string"
+  expected_episode_schema: "id: :integer,show_type: :string,series_id: :int_or_null,season_program_id: :string_or_null,variant_parent_id: :string_or_null,title_parent_id: :string_or_null,group_id: :integer_or_null,is_group_language_primary: :boolean,group_size: :integer,long_title: :string,medium_title: :string,short_title: :string,grid_title: :string,original_title: :string,original_episode_title: :string,category: :string,sports_subtitle: :string,episode_title: :string,episode_number: :string,run_time: :integer,release_year: :integer_or_null,record_language: :string,event_date: :string,hdtv_level: :string,audio_level: :string,threed_level: :string,movie_type: :string,color_type: :string,official_program_url: :string,additional_program_url: :string,part_number: :integer_or_null,total_number_of_parts: :integer_or_null,iso_3_char_language: :string,description: :array_of_objects_or_null,movie_rating: :object_or_null,tv_rating: :object_or_null,genres: :array_of_strings_or_null,services: :array_of_strings_or_null,air_date: :array_of_objects_or_null,release_date: :array_of_objects_or_null,images: :array_of_objects_or_null,external_ratings: :array_of_objects_or_null,episode_season_number: :integer,episode_season_sequence: :integer,episode_series_sequence: :integer"
+  expected_watchlist_schema: "list_status: :string, login_status: :string, list_computed_at: :string, feed: :array_of_objects"
+  expected_tv_rating_schema: "rating_type: :string,rating: :string"
+  expected_images_schema: "active_date: :integer,expiration_date: :integer,number_of_people: :integer_or_null,zoom_level: :integer_or_null,cast_weight: :float_or_null,caption: :string,credit: :string,last_updated_date: :null,primary_image: :boolean,format_id: :string,image_type: :string,url: :string,width: :integer,height: :integer,format: :string,aspect_ratio: :string,orientation: :string,iso_2_char_language: :string,type: :string"
+  #expected_external_ratings_schema: "type: :string,votes: :integer,rating: :float,max_rating: :integer"
+  expected_external_ratings_schema: "type: :string"
+  expected_releasedate_or_airdate_schema: "country: :string,date: :string"
+  expected_videos_schema: "platform: :string,medium_type: :string,content_form: :string,purchase_type: :string,price_type: :string,price: :string_or_null,country_codes: :array_of_strings,last_refreshed_timestamp: :string,link: :object,source_id: :string,run_time: :integer_or_null,source_program_id: :string,quality: :string_or_null,with_subscription: :boolean,audio_languages: :string_or_null,subscription_type: :string_or_null,content_expiry_timestamp: :string_or_null,cache_expiry_timestamp: :string_or_null,launch_id: :string,contraints: :array_of_strings_or_null,with_constraint: :boolean,created_at: :string,updated_at: :string,refreshed_at: :integer"
+  expected_credits_schema: "credit_id: :integer_or_null,credit_type: :string, full_credit_name: :string,part_name: :string,sequence_number: :integer_or_null"
+  expected_ott_param_schema: "platform: :string,medium_type: :string,content_form: :string,purchase_type: :string,price_type: :string,price: :string_or_null,country_codes: :array_of_strings,last_refreshed_timestamp: :string_or_null,link: :object,source_id: :string,run_time: :integer_or_null,source_program_id: :string,quality: :string_or_null,with_subscription: :boolean,audio_languages: :string_or_null,subscription_type: :string_or_null,content_expiry_timestamp: :string_or_null,cache_expiry_timestamp: :string_or_null,launch_id: :string,contraints: :array_of_strings_or_null,with_constraint: :boolean,created_at: :string,updated_at: :string,refreshed_at: :integer"
+
+device_schema:
+  overall_schema: "id: :string,name: :string,category: :string,hdmi_type: :string,cec_support: :boolean,parent_device_id: :string_or_null,logos: :array_of_objects_or_null,brand_id: :integer,brand: :string"
+  logos_schema: "type: :string,resolution: :string,url: :string"
+
+headend_schema:
+  headend: "id: :integer,headend_name: :string,dma_code: :string,dma_rank: :integer_or_null,system_name: :string,headend_city: :string,headend_state: :string,headend_time_zone: :string,dma_name: :string,channel_device: :string,country: :string,service_type: :string"
+  mso:  "id: :integer,mso_name: :string"
+
+sources_schema:
+  sources: "id: :integer,short_name: :string,full_name: :string,call_letters: :string,official_call_sign: :string,source_type: :string,time_zone: :string,primary_language: :string,is_hdtv: :boolean,is_sap: :boolean,is_3d: :boolean,is_vod: :boolean,source_region: :string,iso_3_char_language: :string,iso_3_char_country: :string_or_null,images: :array_of_objects_or_null,genres: :array_of_strings_or_null,channel_numbers: :array_of_strings,channel_number: :string,effective_flag: :string"
+  images: "image_id: :string,type: :string,url: :string, width: :integer, height: :integer,format: :string"
+
+now_ontv_schema:
+  program_schema: "id: :integer,show_type: :string,series_id: :int_or_null,season_program_id: :string_or_null,variant_parent_id: :string_or_null,title_parent_id: :string_or_null,group_id: :integer_or_null,is_group_language_primary: :boolean,group_size: :integer,long_title: :string,medium_title: :string,short_title: :string,grid_title: :string,original_title: :string,original_episode_title: :string,category: :string,sports_subtitle: :string,episode_title: :string,episode_number: :string,run_time: :integer,release_year: :integer_or_null,record_language: :string,event_date: :string,hdtv_level: :string,audio_level: :string,threed_level: :string,movie_type: :string,color_type: :string,official_program_url: :string,additional_program_url: :string,part_number: :integer_or_null,total_number_of_parts: :integer_or_null,iso_3_char_language: :string,description: :array_of_objects_or_null,movie_rating: :object_or_null,tv_rating: :object_or_null,genres: :array_of_strings_or_null,services: :array_of_strings_or_null,air_date: :array_of_objects_or_null,release_date: :array_of_objects_or_null,images: :array_of_objects_or_null,external_ratings: :array_of_objects_or_null,alias_title: :string,alias_title_2: :string,alias_title_3: :string,alias_title_4: :string"
+  reasons_schema: "type: :string,channel_number: :string,channel_numbers: :array_of_strings, airing: :object, source: :object, headend: :object"
+  airing_schema: "id: :integer,duration: :integer,tv_rating: :string,tv_advisory: :string,program_showing_type: :string,color_type: :string,airing_type: :string,subject_to_blackout: :boolean,aspect_ratio: :string,start_date: :string,start_time: :string,time_zone_offset: :integer,headend_time_zone_offset: :integer,gmt_epoch: :integer"
+  source_schema: "id: :integer,short_name: :string,full_name: :string,call_letters: :string,official_call_sign: :string,source_type: :string,time_zone: :string,primary_language: :string,is_hdtv: :boolean,is_sap: :boolean,is_3d: :boolean,is_vod: :boolean,source_region: :string,iso_3_char_language: :string,iso_3_char_country: :string_or_null,images: :array_of_objects_or_null,genres: :array_of_strings_or_null"
+  headend_schema: "id: :integer,headend_name: :string,dma_code: :string,dma_rank: :integer_or_null,system_name: :string,headend_city: :string,headend_state: :string,headend_time_zone: :string,dma_name: :string,channel_device: :string,country: :string,service_type: :string"
+  images_schema: "image_id: :string,type: :string,url: :string, width: :integer, height: :integer,format: :string"
+
+specific_airings_schema:
+  overall_schema: "channel_number: :string,channel_numbers: :array_of_strings,source: :object,airing: :object"
+  source_schema: "id: :integer,short_name: :string,full_name: :string,call_letters: :string,official_call_sign: :string,source_type: :string,time_zone: :string,primary_language: :string,is_hdtv: :boolean,is_sap: :boolean,is_3d: :boolean,is_vod: :boolean,source_region: :string,iso_3_char_language: :string,iso_3_char_country: :string_or_null,images: :array_of_objects_or_null,genres: :array_of_strings_or_null,time_zone_offset: :integer"
+  images_schema: "image_id: :string,type: :string,url: :string, width: :integer, height: :integer,format: :string"
+  airing_schema: "id: :integer,duration: :integer,tv_rating: :string,tv_advisory: :string,program_showing_type: :string,color_type: :string,airing_type: :string,subject_to_blackout: :boolean,aspect_ratio: :string,start_date: :string,start_time: :string,program: :object,time_zone_offset: :integer,headend_time_zone_offset: :integer,gmt_epoch: :integer"
+  program_schema: "id: :integer,show_type: :string,series_id: :int_or_null,season_program_id: :string_or_null,variant_parent_id: :string_or_null,title_parent_id: :string_or_null,group_id: :integer_or_null,is_group_language_primary: :boolean,group_size: :integer,long_title: :string,medium_title: :string,short_title: :string,grid_title: :string,original_title: :string,original_episode_title: :string,category: :string,sports_subtitle: :string,episode_title: :string,episode_number: :string,run_time: :integer,release_year: :integer_or_null,record_language: :string,event_date: :string,hdtv_level: :string,audio_level: :string,threed_level: :string,movie_type: :string,color_type: :string,official_program_url: :string,additional_program_url: :string,part_number: :integer_or_null,total_number_of_parts: :integer_or_null,iso_3_char_language: :string,description: :array_of_objects_or_null,movie_rating: :object_or_null,tv_rating: :object_or_null,genres: :array_of_strings_or_null,services: :array_of_strings_or_null,air_date: :array_of_objects_or_null,release_date: :array_of_objects_or_null,season_number: :integer_or_null,start_year: :int_or_null,end_year: :integer_or_null,network: :string_or_null,season_title: :string_or_null,images: :array_or_null,external_ratings: :array_or_null,alias_title: :string,alias_title_2: :string,alias_title_3: :string,alias_title_4: :string"
+  description_schema: "program_description: :string,program_description_type: :string"
+
+watchlist_episode_schema: "id: :integer,long_title: :string,episode_title: :string,original_episode_title: :string,episode_season_number: :integer,episode_season_sequence: :integer,episode_series_sequence: :integer"
+
+search_schema:
+  overall_schema_old: "action_type: :string,results: :array"
+  overall_schema: "action_type: :string,play: :boolean,results: :array"
+  overall_schema_non_ott_search_obj: "action_type: :string,play: :boolean,results: :array"
+  results_schema: "object_type: :string,object: :object"
+  channel_schema: "id: :integer,short_name: :string,full_name: :string,call_letters: :string,official_call_sign: :string,source_type: :string,time_zone: :string,primary_language: :string,is_hdtv: :boolean,is_sap: :boolean,is_3d: :boolean,is_vod: :boolean,source_region: :string,iso_3_char_language: :string,iso_3_char_country: :string,images: :array_of_objects,genres: :array_of_strings_or_null,channel_number: :array_of_strings,channel_numbers: :array_of_strings"
+  images_schema: "image_id: :string,type: :string,url: :string, width: :integer, height: :integer,format: :string"
+  device_schema: "name: :string,category: :string,cec_support: :boolean,id: :string,brand_id: :integer,brand: :string,port_id: :integer,parent_device_id: :string_or_null,logos: :array_of_objects_or_null"
+  logos_schema: "type: :string,resolution: :string,url: :string"
+  service_schema: "id: :string,name: :string,pay_per_view: :boolean,subscription: :boolean,buy: :boolean,images: :array_of_strings"
+
+search_new_schema:
+  results_schema: "object_type: :string,from_alias: :boolean,object: :object"
+  epg_overall_schema: "object_type: :string,object: :object,reasons: :array"  
+  epg_reasons_schema: "channel_numbers: :array_of_strings,airing: :object,source: :object,headend: :object"
+  source_schema: "id: :integer,short_name: :string,full_name: :string,call_letters: :string,official_call_sign: :string,source_type: :string,time_zone: :string,primary_language: :string,is_hdtv: :boolean,is_sap: :boolean,is_3d: :boolean,is_vod: :boolean,source_region: :string,iso_3_char_language: :string,iso_3_char_country: :string_or_null,images: :array_of_objects_or_null,genres: :array_of_strings_or_null"
+  
+graph_db_search_schema:
+  overall_schema: "action_type: :string,play: :boolean,entity: :string,results: :array_of_objects"
+  overall_credit_or_genre_schema: "action_type: :string,play: :boolean,results: :array_of_objects"
+  specific_episode_overall_schema: "action_type: :string,play: :boolean,entity: :string,results: :array_of_objects"
+  results_schema: "object_type: :string,from_alias: :boolean_or_null,object: :object,watchlist_availability: :array"
+  watchlist_schema: "service: :object,feed_type: :string,profile: :string,resume: :boolean,videos: :array_of_objects"
+  epg_overall_schema: "object_type: :string,object: :object,reasons: :array"  
+  epg_reasons_schema: "channel_numbers: :array_of_strings,airing: :object,source: :object,headend: :object"
+  source_schema: "id: :integer,short_name: :string,full_name: :string,call_letters: :string,official_call_sign: :string,source_type: :string,time_zone: :string,primary_language: :string,is_hdtv: :boolean,is_sap: :boolean,is_3d: :boolean,is_vod: :boolean,source_region: :string,iso_3_char_language: :string,iso_3_char_country: :string_or_null,images: :array_of_objects_or_null,genres: :array_of_strings_or_null"
+
+dvr_schema:
+  schema_for_rovi_mapped_programs: "id: :integer,show_type: :string,series_id: :int_or_null,season_program_id: :string_or_null,variant_parent_id: :string_or_null,title_parent_id: :string_or_null,group_id: :integer_or_null,is_group_language_primary: :boolean,group_size: :integer,long_title: :string,medium_title: :string,short_title: :string,grid_title: :string,original_title: :string,original_episode_title: :string,category: :string,sports_subtitle: :string,episode_title: :string,episode_number: :string,run_time: :integer,release_year: :integer_or_null,record_language: :string,event_date: :string,hdtv_level: :string,audio_level: :string,threed_level: :string,movie_type: :string,color_type: :string,official_program_url: :string,additional_program_url: :string,part_number: :integer_or_null,total_number_of_parts: :integer_or_null,iso_3_char_language: :string,description: :array_of_objects_or_null,movie_rating: :object_or_null,tv_rating: :object_or_null,genres: :array_of_strings_or_null,services: :array_of_strings_or_null,air_date: :array_of_objects_or_null,release_date: :array_of_objects_or_null,images: :array_of_objects_or_null,external_ratings: :array_of_objects_or_null,dvr_group_id: :string,dvr_group_title: :string,gracenote_images: :array,alias_title: :string,alias_title_2: :string,alias_title_3: :string,alias_title_4: :string"
+  schema_without_rovi_mapping: "dvr_group_id: :string,dvr_group_title: :string,gracenote_images: :array"
+  schema_for_group_members_with_mapping: "id: :integer,show_type: :string,series_id: :int_or_null,season_program_id: :string_or_null,variant_parent_id: :string_or_null,title_parent_id: :string_or_null,group_id: :integer_or_null,is_group_language_primary: :boolean,group_size: :integer,long_title: :string,medium_title: :string,short_title: :string,grid_title: :string,original_title: :string,original_episode_title: :string,category: :string,sports_subtitle: :string,episode_title: :string,episode_number: :string,run_time: :integer,release_year: :integer_or_null,record_language: :string,event_date: :string,hdtv_level: :string,audio_level: :string,threed_level: :string,movie_type: :string,color_type: :string,official_program_url: :string,additional_program_url: :string,part_number: :integer_or_null,total_number_of_parts: :integer_or_null,iso_3_char_language: :string,description: :array_of_objects_or_null,movie_rating: :object_or_null,tv_rating: :object_or_null,genres: :array_of_strings_or_null,services: :array_of_strings_or_null,air_date: :array_of_objects_or_null,release_date: :array_of_objects_or_null,images: :array_of_objects_or_null,external_ratings: :array_of_objects_or_null,episode_season_number: :integer,episode_season_sequence: :integer,episode_series_sequence: :integer,gracenote_images: :array,dvr_id: :string,dvr_run_time: :integer,dvr_rating: :string,dvr_description: :string,dvr_video: :object,dvr_title: :string,dvr_episode_title: :string_or_null,dvr_release_year: :integer_or_null,dvr_orig_air_date: :string_or_null,dvr_is_viewed: :boolean_or_null,dvr_recording_date: :integer,dvr_recording_time: :integer,dvr_genres: :array"
+  schema_for_group_members_without_mapping: "gracenote_images: :array,dvr_id: :string,dvr_run_time: :integer,dvr_rating: :string,dvr_description: :string,dvr_video: :object,dvr_title: :string,dvr_episode_title: :string_or_null,dvr_release_year: :integer_or_null,dvr_orig_air_date: :string_or_null,dvr_is_viewed: :boolean_or_null,dvr_recording_date: :integer,dvr_recording_time: :integer,dvr_genres: :array"
+  schema_for_dvr_video: "source_program_id: :string,device_id: :string"
+  schema_for_dvr_search: "dvr_id: :string,dvr_run_time: :integer,dvr_rating: :string,dvr_description: :string_or_null,dvr_video: :object,dvr_title: :string,dvr_episode_title: :string_or_null,dvr_release_year: :integer_or_null,dvr_orig_air_date: :string_or_null,dvr_is_viewed: :boolean_or_null,dvr_recording_date: :integer,dvr_recording_time: :integer,dvr_genres: :array"
+  schema_for_dvr_video_new: "source_program_id: :string,src: :integer,type: :integer,device_id: :string"
+
+youtube_schema:
+  overall_schema: "video_id: :string,url: :string,title: :string,description: :string,images: :array_of_objects"
+  images_schema: "url: :string,quality: :string"
+
+switches_apps_schema:
+  overall_apps_schema: "name: :string,platforms: :array_of_strings,logos: :array_of_objects,id: :string,services: :array_of_strings_or_null,devices: :array_of_objects"
+  apps_device_overall_schema: "device: :object,deeplink_supported: :boolean,sequence: :integer"
+  apps_device_schema: "id: :string,name: :string,category: :string,cec_support: :boolean,logos: :array_of_objects,brand_id: :integer,brand: :string"
+  unconfigured_device_schema: "category: :string,cec_support: :boolean,name: :string,id: :string,brand_id: :integer,brand: :string,scan_method: :string,port: :integer,device_name: :string" 
+  configured_device_schema: "category: :string,cec_support: :boolean,name: :string,id: :string,brand_id: :integer,brand: :string,logos: :array_of_objects,scan_method: :string,port: :integer,device_name: :string" 
+
+program_mandatory_fields: ["id","show_type","long_title","original_title","run_time","release_year"]
+season_mandatory_fields: [ "series_id", "season_program_id", "season_number", "season_name", "start_year", "end_year", "network", "season_copy", "season_essay" ]
+video_mandatory_fields: ["rovi_id","platform","price_currency","content_form","purchase_type","price_type","price","link","source_id","run_time","source_program_id","quality","with_subscription","subscription_type"]
+#image_mandatory_fields: ["aspect_ratio","width","height","orientation","type","url"]
+image_mandatory_fields: [width","height","url"]
+episode_mandatory_fields: ["id","show_type","long_title","original_title","original_episode_title",run_time","release_year","air_date","episode_season_number","episode_season_sequence","episode_series_sequence"]
+device_mandatory_fields: ["id","name","hdmi_type","cec_support","logos"]
+
+params: ["credit_summary","ott"]
+all_services: ["amazon","hbogo","hulu","netflix","showtimeanytime","showtime","hbonow","vudu","youtube"]
+
+box_devices:
+  "Apple TV": "d5e6ed48"
+  "Sony PS3": "bdf0396d"
+  "Panasonic BluRay Player": "4e3d1d62"
+  "Roku": "38ea3aa5"
+  "DirecTV": "972be449"
+  "Google Chromecast": "21604239"
+  "Amazon Fire TV": "0e3ff839"
+  "LG TV": "b289e4a3"
+
+apps:
+  "Amazon": [{device: {name: "Roku"},deeplink_supported: true,sequence: 2},{device: {name: "Fire TV"},deeplink_supported: true,sequence: 1}]
+  "DirecTV Now": [{device: {name: "Fire TV"},deeplink_supported: false,sequence: 1}]
+  "HBO Go": [{device: {name: "Apple TV"},deeplink_supported: true,sequence: 3},{device: {name: "Roku"},deeplink_supported: true,sequence: 1},{device: {name: "Fire TV"},deeplink_supported: true,sequence: 2}]
+  "HBO Now": [{device: {name: "Apple TV"},deeplink_supported: true,sequence: 3},{device: {name: "Roku"},deeplink_supported: true,sequence: 1},{device: {name: "Fire TV"},deeplink_supported: true,sequence: 2}]
+  "Hulu": [{device: {name: "Roku"},deeplink_supported: true,sequence: 1},{device: {name: "Fire TV"},deeplink_supported: true,sequence: 2}]
+  "iTunes Movies": [{device: {name: "Apple TV"},deeplink_supported: true,sequence: 1}]
+  "iTunes Shows": [{device: {name: "Apple TV"},deeplink_supported: true,sequence: 1}]
+  "Netflix": [{device: {name: "Apple TV"},deeplink_supported: true,sequence: 3},{device: {name: "Roku"},deeplink_supported: true,sequence: 1},{device: {name: "Fire TV"},deeplink_supported: true,sequence: 2}]
+  "Plex": [{device: {name: "Apple TV"},deeplink_supported: true,sequence: 3},{device: {name: "Roku"},deeplink_supported: true,sequence: 2},{device: {name: "Fire TV"},deeplink_supported: true,sequence: 1}]
+  "Showtime": [{device: {name: "Roku"},deeplink_supported: false,sequence: 2},{device: {name: "Fire TV"},deeplink_supported: true,sequence: 1}]
+  "Showtime Anytime": [{device: {name: "Apple TV"},deeplink_supported: true,sequence: 2},{device: {name: "Roku"},deeplink_supported: false,sequence: 3},{device: {name: "Fire TV"},deeplink_supported: true,sequence: 1}]
+  "Sling TV": [{device: {name: "Roku"},deeplink_supported: false,sequence: 1},{device: {name: "Fire TV"},deeplink_supported: false,sequence: 2}]
+  "Vudu": [{device: {name: "Roku"},deeplink_supported: true,sequence: 1}]
+  "Youtube": [{device: {name: "Roku"},deeplink_supported: true,sequence: 1},{device: {name: "Fire TV"},deeplink_supported: true,sequence: 2}]
+
+apps_selected_in_box: ["cf528ea9","ea0f81d1","2ba2dc0e","50107ad3","3c103fa4","692bea67","b24c00b1","557e96d5","b2db5e2a","f0ad77dc"]
+services_selected_in_box: ["amazon","hbogo","hulu","netflixusa","showtime","vudu"]

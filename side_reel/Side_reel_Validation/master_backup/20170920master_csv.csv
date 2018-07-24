@@ -1,0 +1,312 @@
+Scraped Date,category,Series Name,Release_Year,Season Number,Episode Number,Episode Title,Links,Result,Error,Date Validated
+"March 23, 2017",Recently_added,Baskets,2017,2,10,Circus,"{""amazon""=>[""B06XS5FB8R"", ""B06XS5F8X5""]}",PASS,NO Error,2017-06-16
+"June 25, 2017",Recently_added,The Handmaid's Tale,2017,1,10,Night,"{""hulu""=>[""1092255"", ""1089637""]}",Prg_id obtained in search:FAIL,hulu,2017-09-20
+"June 18, 2017",Recently_added,I'm Dying Up Here,2017,1,3,The Cost of a Free Buffet,"{""showtimeanytime""=>[""3433213""]}",PASS,NO Error,2017-06-29
+"June 18, 2017",Recently_added,Silicon Valley,2014,4,9,Hooli-Con,"{""hbogo""=>[""GWP5b1Qa2qz1owwEAAAAR""]}",PASS,NO Error,2017-07-19
+"June 18, 2017",Recently_added,Veep,2012,6,9,A Woman First,"{""hbogo""=>[""GWP5bxQYzHqezVAEAAAAJ""]}",PASS,NO Error,2017-07-19
+"June 28, 2017",Recently_added,The Carmichael Show,2015,3,5,Cynthia's Birthday,"{""hulu""=>[""1100526"", ""1101119""], ""amazon""=>[""B072WLRBS1"", ""B072WMZJLL""]}",Prg_id obtained in search:FAIL,hulu,2017-09-20
+"June 28, 2017",Recently_added,Lip Sync Battle,2015,3,21,TMI: Salt vs. Pepa,"{""amazon""=>[""B00ZSQG8QQ""]}",Series got mapped but Episode Title didn't matched:Not found in Rovi Metadata:FAIL,"gn_status : FAIL,hulu_status :  vudu_status: ",2017-09-20
+"June 18, 2017",Recently_added,The Real Housewives of Potomac,2016,2,11,The Grand Dame Sham,"{""itunes""=>[""1248475104""], ""amazon""=>[""B072R61DZQ"", ""B0721V43V7""]}",PASS,NO Error,2017-07-02
+"June 24, 2017",Recently_added,American Grit,2016,2,3,Liar Liar,"{""hulu""=>[""1103950"", ""1099576"", ""1099574"", ""1099553""], ""amazon""=>[""B0733NSWPL"", ""B0733NYFQN""]}",Prg_id obtained in search:FAIL,hulu,2017-09-20
+"June 25, 2017",Recently_added,Botched,2014,4,2,Comic Proportions,"{""amazon""=>[""B0739QZRMB"", ""B0739QG3G5""]}",PASS,NO Error,2017-07-21
+"June 25, 2017",Recently_added,Claws,2017,1,3,Quicksand,"{""amazon""=>[""B0739RBGNH"", ""B0739NF8S3""]}",PASS,NO Error,2017-07-02
+"June 25, 2017",Recently_added,Fear the Walking Dead,2015,3,5,"Burning in Water, Drowning in Flame","{""amazon""=>[""B0735KJVV6"", ""B0735LX77Z""]}",PASS,NO Error,2017-07-06
+"June 25, 2017",Recently_added,Good Witch,2008,3,9,"Not Getting Married Today, Part 1","{""amazon""=>[""B0733MWNFR"", ""B0733NQYVG""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",amazon,2017-09-20
+"June 26, 2017",Recently_added,American Ninja Warrior,2010,9,3,Daytona Beach Qualifiers,"{""hulu""=>[""1104745""], ""amazon""=>[""B073B2G8MD"", ""B073B31V9Y""]}",Prg_id obtained in search:FAIL,hulu,2017-09-19
+"January 20, 2017",Recently_added,Degrassi: Next Class,2017,3,10,#ImSleep,"{""netflixusa""=>[""80113826""]}",PASS,NO Error,2017-07-03
+"June 26, 2017",Recently_added,Preacher,2016,2,2,Mumbai Sky Tower,"{""amazon""=>[""B07363TZ5P"", ""B07363MS64""]}",PASS,NO Error,2017-07-03
+"June 26, 2017",Recently_added,American Ninja Warrior,2010,9,3,Daytona Beach Qualifiers,"{""hulu""=>[""1104745""], ""amazon""=>[""B073B2G8MD"", ""B073B31V9Y""]}",Prg_id obtained in search:FAIL,hulu,2017-09-20
+"June 27, 2017",Recently_added,Chopped,2009,34,6,Snap Pea to It!,"{""amazon""=>[""B073F25D2Y"", ""B073F2V4NC""]}",PASS,NO Error,2017-07-16
+"January 20, 2017",Recently_added,Degrassi: Next Class,2017,3,10,#ImSleep,"{""netflixusa""=>[""80113826""]}",PASS,NO Error,2017-07-06
+"June 28, 2017",Recently_added,The Carmichael Show,2015,3,5,Cynthia's Birthday,"{""hulu""=>[""1100526"", ""1101119""], ""amazon""=>[""B072WLRBS1"", ""B072WMZJLL""]}",Prg_id obtained in search:FAIL,hulu,2017-09-20
+"June 28, 2017",Recently_added,Blood Drive,2017,1,3,Steel City Nightfall,"{""amazon""=>[""B073FGYHTJ"", ""B073FH3737""]}",PASS,NO Error,2017-07-06
+"June 28, 2017",Recently_added,Lip Sync Battle,2015,3,21,TMI: Salt vs. Pepa,"{""amazon""=>[""B00ZSQG8QQ""]}",Series got mapped but Episode Title didn't matched:Not found in Rovi Metadata:FAIL,"gn_status : FAIL,hulu_status :  vudu_status: ",2017-09-20
+"June 28, 2017",Recently_added,Queen Sugar,2016,2,3,What Do I Care For Morning,"{""amazon""=>[""B073G1SJFL"", ""B073FY8JMJ""]}",PASS,NO Error,2017-07-06
+"June 28, 2017",Recently_added,Younger,2015,4,1,Post Truth,"{""amazon""=>[""B073FHV848"", ""B073FJC5PB""]}",PASS,NO Error,2017-07-06
+"January 20, 2017",Recently_added,Degrassi: Next Class,2017,3,10,#ImSleep,"{""netflixusa""=>[""80113826""]}",PASS,NO Error,2017-07-07
+"June 29, 2017",Recently_added,Married At First Sight,2014,5,12,One Month Anniversary,"{""itunes""=>[""1253393759""], ""amazon""=>[""B073G2FFC5"", ""B073FYB4BJ""]}",PASS,NO Error,2017-07-07
+"June 29, 2017",Recently_added,Million Dollar Listing New York,2012,6,6,"Ice, Ice, Ryan","{""itunes""=>[""1253879686""], ""amazon""=>[""B073GY1XH6"", ""B073GY1YFG""]}",PASS,NO Error,2017-07-09
+"June 29, 2017",Recently_added,Nashville,2012,5,16,Not Ready to Make Nice,"{""hulu""=>[""1106069""], ""amazon""=>[""B073HNKZ85"", ""B073HMMD2G""]}",PASS,NO Error,2017-07-07
+"June 29, 2017",Recently_added,The Wall,2016,2,2,Lenny and Sharon,"{""hulu""=>[""1107049""]}",PASS,NO Error,2017-07-07
+"June 29, 2017",Recently_added,Queen of the South,2016,2,4,El Beso De Judas,"{""itunes""=>[""1250638751""], ""amazon""=>[""B073G1RR3Q"", ""B073FZWVZH""]}",PASS,NO Error,2017-07-07
+"June 29, 2017",Recently_added,Saving Hope,2012,5,13,Problem Child,"{""amazon""=>[""B073PHNP73"", ""B073PJ7K5Z""]}",PASS,NO Error,2017-07-21
+"June 29, 2017",Recently_added,The Mist,2017,1,2,Withdrawal,"{""itunes""=>[""1253731552""], ""amazon""=>[""B073GJ6NPT"", ""B073GHS2PR""]}",PASS,NO Error,2017-07-07
+"June 29, 2017",Recently_added,The Night Shift,2014,4,2,Off the Rails,"{""itunes""=>[""1254103928""], ""amazon""=>[""B073HSYJ6P"", ""B073HRTVNJ""]}",PASS,NO Error,2017-07-21
+"June 29, 2017",Recently_added,Zoo,2015,3,1,No Place Like Home,"{""itunes""=>[""1253737183""], ""amazon""=>[""B073J4HP31"", ""B073HY7926""]}",PASS,NO Error,2017-07-07
+"July 1, 2017",Recently_added,Doubt,2017,1,3,Poison Prize,"{""amazon""=>[""B073MB4T8K"", ""B073MBDSGS""]}",PASS,NO Error,2017-07-09
+"June 19, 2017",Recently_added,Still Star-Crossed,2017,1,3,All the World's a Stage,"{""hulu""=>[""1095576"", ""1092838"", ""1095739"", ""1095714"", ""1099575""], ""itunes""=>[""1250169220""], ""amazon""=>[""B072WK6PG4"", ""B072WFP6BP""]}",Prg_id obtained in search:FAIL,hulu,2017-09-20
+"May 6, 2017",Recently_added,Marvel's Guardians of the Galaxy,2015,2,13,Symbiote War Part Three - Thunder Road,"{""amazon""=>[""B07196FTVC"", ""B0722S915T""]}",PASS,NO Error,2017-07-09
+"July 1, 2017",Recently_added,Orphan Black,2013,5,4,Let The Children and Childbearers Toil,"{""amazon""=>[""B073JKNN36"", ""B073JGJ6WF""]}",PASS,NO Error,2017-07-09
+"July 1, 2017",Recently_added,TURN: Washington's Spies,2014,4,4,Nightmare,"{""itunes""=>[""1253591339""], ""amazon""=>[""B073HKX4VB"", ""B073HKZYQL""]}",PASS,NO Error,2017-07-09
+"May 6, 2017",Recently_added,Marvel's Guardians of the Galaxy,2015,2,13,Symbiote War Part Three - Thunder Road,"{""amazon""=>[""B07196FTVC"", ""B0722S915T""]}",PASS,NO Error,2017-07-09
+"July 2, 2017",Recently_added,American Grit,2016,2,4,Secrets Are Revealed,"{""amazon""=>[""B073JL7V86"", ""B073JLHPG1""]}",PASS,NO Error,2017-07-10
+"July 2, 2017",Recently_added,Botched,2014,4,3,All Twerk And No Play,"{""amazon""=>[""B073NKBH6D"", ""B073NLQ7PL""]}",PASS,NO Error,2017-07-21
+"July 2, 2017",Recently_added,Claws,2017,1,4,Fallout,"{""amazon""=>[""B073NLLWWP"", ""B073NLPBTL""]}",PASS,NO Error,2017-07-10
+"July 2, 2017",Recently_added,Fear the Walking Dead,2015,3,6,Red Dirt,"{""amazon""=>[""B073K2ZYZ6"", ""B073JZKV5L""]}",PASS,NO Error,2017-07-10
+"July 2, 2017",Recently_added,Food Network Star,2005,13,6,Sunny's Kitchen Hacks,"{""amazon""=>[""B073HMZKPN"", ""B073HKFCW7""]}",PASS,NO Error,2017-07-10
+"July 2, 2017",Recently_added,Fear the Walking Dead,2015,3,6,Red Dirt,"{""amazon""=>[""B073K2ZYZ6"", ""B073JZKV5L""]}",PASS,NO Error,2017-07-10
+"June 25, 2017",Recently_added,I'm Dying Up Here,2017,1,4,Sugar and Spice,"{""showtimeanytime""=>[""3433214""]}",PASS,NO Error,2017-07-10
+"June 26, 2017",Recently_added,Shadowhunters,2016,2,14,The Fair Folk,"{""hulu""=>[""1104360""], ""amazon""=>[""B073B7MGLN"", ""B073B44T72""]}",PASS,NO Error,2017-07-11
+"June 27, 2017",Recently_added,The Bachelorette,2003,13,6,Episode 6,"{""hulu""=>[""1105271"", ""1105401"", ""1105380"", ""1105374"", ""1105371"", ""1105370""], ""amazon""=>[""B073FVFL4D"", ""B073FTJYHX""]}",Series got mapped but Episode Title didn't matched:Not found in Rovi Metadata:FAIL,"gn_status : PASS,hulu_status : FAIL vudu_status: ",2017-09-20
+"July 3, 2017",Recently_added,American Ninja Warrior,2010,9,4,Kansas City Qualifiers,"{""itunes""=>[""1254963094""], ""amazon""=>[""B073P933TK"", ""B073P97ZH6""]}",PASS,NO Error,2017-07-14
+"July 14, 2017",Recently_added,Degrassi: Next Class,2017,4,10,#KThxBye,"{""netflixusa""=>[""80113752""]}",PASS,NO Error,2017-07-11
+"January 10, 2017",Recently_added,Kate Plus 8,2010,5,8,Game Night,"{""amazon""=>[""B01N0ZNBN6""]}",PASS,NO Error,2017-07-11
+"June 26, 2017",Recently_added,Stitchers,2015,3,4,Mind Palace,"{""hulu""=>[""1104353""], ""amazon""=>[""B073B7JMP7"", ""B073B5SW3V""]}",PASS,NO Error,2017-07-11
+"June 26, 2017",Recently_added,Pawn Stars,2009,14,17,Frontier Fortune,"{""amazon""=>[""B073BS6993"", ""B073BSC8W4""]}",wip:Got prog id from rovi metadata:FAIL,amazon,2017-09-20
+"July 3, 2017",Recently_added,Preacher,2016,2,3,Damsels,"{""amazon""=>[""B073JYPTST"", ""B073JZ2M49""]}",PASS,NO Error,2017-07-11
+"June 26, 2017",Recently_added,Pawn Stars,2009,14,17,Frontier Fortune,"{""amazon""=>[""B073BS6993"", ""B073BSC8W4""]}",wip:Got prog id from rovi metadata:FAIL,amazon,2017-09-20
+"June 22, 2017",Recently_added,The Daily Show,1996,23,94,Jerrod Carmichael,"{""itunes""=>[""1251818834""]}",None of the series titles matched:Got prog id from rovi metadata:FAIL,itunes,2017-09-20
+"July 11, 2017",Recently_added,Casual,2015,3,10,Cake Walk,"{""hulu""=>[""1109057""]}",PASS,NO Error,2017-07-14
+"July 14, 2017",Recently_added,Degrassi: Next Class,2017,4,10,#KThxBye,"{""netflixusa""=>[""80113752""]}",PASS,NO Error,2017-07-12
+"July 12, 2017",Recently_added,Big Brother 19,2017,1,7,Episode 7,"{""itunes""=>[""1258649778""]}",None of the series titles matched:Not found in Rovi Metadata:FAIL,"gn_status : FAIL,hulu_status :  vudu_status: ",2017-09-20
+"July 14, 2017",Recently_added,Degrassi: Next Class,2017,4,10,#KThxBye,"{""netflixusa""=>[""80113752""]}",PASS,NO Error,2017-07-14
+"July 6, 2017",Recently_added,Married At First Sight,2014,5,13,Support,"{""itunes""=>[""1254556635""], ""amazon""=>[""B073PHV165"", ""B073PJPP24""]}",PASS,NO Error,2017-07-14
+"July 6, 2017",Recently_added,Million Dollar Listing New York,2012,6,7,Co-List or No-List,"{""itunes""=>[""1256349219""], ""amazon""=>[""B073RB8PL5"", ""B073RC42PP""]}",PASS,NO Error,2017-07-14
+"July 6, 2017",Recently_added,Nashville,2012,5,17,Ghost in This House,"{""hulu""=>[""1109059""], ""amazon""=>[""B073RS1FCP"", ""B073RSMBRD""]}",PASS,NO Error,2017-07-14
+"May 11, 2017",Recently_added,Impractical Jokers,2011,6,13,Universal Appeal,"{""itunes""=>[""1235864341""], ""amazon""=>[""B071LB15JS"", ""B07285X6C5""]}",PASS,NO Error,2017-07-14
+"July 6, 2017",Recently_added,Queen of the South,2016,2,5,El Nacimiento de Bolivia,"{""itunes""=>[""1253549514""], ""amazon""=>[""B073PHDYGL"", ""B073PHN3GY""]}",PASS,NO Error,2017-07-21
+"July 6, 2017",Recently_added,The Mist,2017,1,3,Show and Tell,"{""itunes""=>[""1256263840""], ""amazon""=>[""B073RHH8PW"", ""B073RGQY4K""]}",PASS,NO Error,2017-07-14
+"July 6, 2017",Recently_added,The Night Shift,2014,4,3,Do No Harm,"{""itunes""=>[""1256625037""], ""amazon""=>[""B073RSTPYY"", ""B073RSTSYC""]}",PASS,NO Error,2017-07-14
+"July 6, 2017",Recently_added,Zoo,2015,3,2,Diaspora,"{""itunes""=>[""1256238720""], ""amazon""=>[""B073RRJVSV"", ""B073RRLRKT""]}",PASS,NO Error,2017-07-14
+"July 8, 2017",Recently_added,My Cat From Hell,2011,9,12,Bad Max,"{""amazon""=>[""B073SFST91"", ""B073SDYKLL""]}",PASS,NO Error,2017-07-21
+"July 8, 2017",Recently_added,Still Star-Crossed,2017,1,4,Pluck Out the Heart of My Mystery,"{""itunes""=>[""1257439779""], ""amazon""=>[""B073TBSX6X"", ""B073TBFD7Q""]}",PASS,NO Error,2017-07-19
+"July 8, 2017",Recently_added,Ghost Adventures,2008,14,10,The Viper Room,"{""amazon""=>[""B073SF5SBF"", ""B073SFMKB9""]}",PASS,NO Error,2017-07-25
+"July 8, 2017",Recently_added,Orphan Black,2013,5,5,Ease for Idle Millionaires,"{""amazon""=>[""B073SF33K4"", ""B073SF9VPN""]}",PASS,NO Error,2017-07-16
+"July 8, 2017",Recently_added,TURN: Washington's Spies,2014,4,5,Private Woodhull,"{""amazon""=>[""B073SQRQTJ"", ""B073SPW32T""]}",PASS,NO Error,2017-07-16
+"July 18, 2017",Recently_added,Casual,2015,3,11,Firesale,"{""hulu""=>[""1113272""]}",PASS,NO Error,2017-07-19
+"July 11, 2017",Recently_added,The Fosters,2013,5,1,Resist,"{""amazon""=>[""B073VY6FRW"", ""B073VYWMWB""]}",PASS,NO Error,2017-07-19
+"July 11, 2017",Recently_added,Animal Kingdom,2016,2,6,Cry Havoc,"{""itunes""=>[""1258192612""], ""amazon""=>[""B073VRHGCG"", ""B073VR6MC9""]}",PASS,NO Error,2017-07-21
+"July 11, 2017",Recently_added,Below Deck Mediterranean,2016,2,10,Kissing up,"{""itunes""=>[""1257907150""], ""amazon""=>[""B073VQMGQG"", ""B073VS9VRN""]}",PASS,NO Error,2017-07-19
+"July 11, 2017",Recently_added,Deadliest Catch,2005,13,15,Dead-Stick,"{""itunes""=>[""1258238695""], ""amazon""=>[""B073W5W6DS"", ""B073W57MGW""]}",PASS,NO Error,2017-07-21
+"July 11, 2017",Recently_added,Face Off,2011,12,4,Dante's Demons,"{""itunes""=>[""1257921945""], ""amazon""=>[""B073VRNPXZ"", ""B073VRQRQ9""]}",PASS,NO Error,2017-07-19
+"July 11, 2017",Recently_added,The Bold Type,2017,1,2,Oh Hell No,"{""hulu""=>[""1111025""], ""amazon""=>[""B073VS5KLY"", ""B073VQY8DB""]}",Series got mapped but Episode Title didn't matched:Not found in Rovi Metadata:FAIL,"gn_status : PASS,hulu_status : PASS vudu_status: ",2017-09-20
+"July 11, 2017",Recently_added,Adam Ruins Everything,2015,2,1,Adam Ruins Having a Baby,"{""itunes""=>[""1256842208""], ""amazon""=>[""B073V63GFB"", ""B073V6PC5Q""]}",PASS,NO Error,2017-07-21
+"July 11, 2017",Recently_added,Chopped,2009,34,8,Flour Power,"{""amazon""=>[""B073V67NGQ"", ""B073V4PNLD""]}",PASS,NO Error,2017-07-21
+"July 11, 2017",Recently_added,Ink Master,2012,9,6,War and Ink,"{""itunes""=>[""1257997233""], ""amazon""=>[""B073VQPF1N"", ""B073VR2WJS""]}",PASS,NO Error,2017-07-21
+"January 17, 2017",Recently_added,Shooter,2016,1,10,Primer Contact,"{""amazon""=>[""B01NBVTG1Z"", ""B01NBVTCUD""]}",PASS,NO Error,2017-07-19
+"July 11, 2017",Recently_added,Tosh.0,2009,9,15,Episode 15,"{""itunes""=>[""1258488466""]}",Series got mapped but Episode Title didn't matched:Not found in Rovi Metadata:FAIL,"gn_status : PASS,hulu_status :  vudu_status: ",2017-09-20
+"July 11, 2017",Recently_added,Wrecked,2016,2,4,Tony Pepperoni,"{""itunes""=>[""1256929659""], ""amazon""=>[""B073V5VXFV""]}",PASS,NO Error,2017-07-19
+"July 13, 2017",Recently_added,Married At First Sight,2014,5,14,Intimacy Pt. 2,"{""itunes""=>[""1259321451""]}",PASS,NO Error,2017-07-21
+"July 13, 2017",Recently_added,Million Dollar Listing New York,2012,6,8,It Takes a (East) Village,"{""itunes""=>[""1259349389""], ""amazon""=>[""B073WWP186"", ""B073WX5V36""]}",PASS,NO Error,2017-07-21
+"July 13, 2017",Recently_added,Nashville,2012,5,18,The Night Before (Life Goes On),"{""amazon""=>[""B073X7MJP2"", ""B073X885QT""]}",PASS,NO Error,2017-07-21
+"July 13, 2017",Recently_added,Impractical Jokers,2011,6,14,Paradise Lost,"{""itunes""=>[""1259405680""], ""amazon""=>[""B073X85PL6"", ""B073X9G3DP""]}",PASS,NO Error,2017-07-25
+"July 13, 2017",Recently_added,Queen of the South,2016,2,6,El Camino de la Muerte,"{""itunes""=>[""1257147451""], ""amazon""=>[""B073V8176Z"", ""B073V7J5MV""]}",PASS,NO Error,2017-07-21
+"July 13, 2017",Recently_added,The Mist,2017,1,4,Pequod,"{""itunes""=>[""1258981661""], ""amazon""=>[""B073X6MVGL"", ""B073X679VP""]}",PASS,NO Error,2017-07-21
+"July 13, 2017",Recently_added,The Night Shift,2014,4,4,Control,"{""itunes""=>[""1259371284""], ""amazon""=>[""B073X7CGL7"", ""B073X66QJ4""]}",PASS,NO Error,2017-07-21
+"July 13, 2017",Recently_added,Zoo,2015,3,3,Ten Years Gone,"{""itunes""=>[""1259094826""], ""amazon""=>[""B073WWPD53"", ""B073WWJGFR""]}",PASS,NO Error,2017-07-21
+"July 15, 2017",Recently_added,Still Star-Crossed,2017,1,5,Nature Hath Framed Strange Fellows in Her Time,"{""itunes""=>[""1260201469""], ""amazon""=>[""B073YN5B8M"", ""B073YMZKXP""]}",PASS,NO Error,2017-07-25
+"July 15, 2017",Recently_added,Orphan Black,2013,5,6,Manacled Slim Wrists,"{""amazon""=>[""B073X67NPC"", ""B073X6P897""]}",PASS,NO Error,2017-07-25
+"July 15, 2017",Recently_added,TURN: Washington's Spies,2014,4,6,Our Man in New York,"{""amazon""=>[""B073X69L1Y"", ""B073X5G64G""]}",PASS,NO Error,2017-07-25
+"July 24, 2017",Recently_added,Cops,1989,30,3,Surprise Guest,"{""amazon""=>[""B07345BMW1"", ""B07346XJXX""]}",PASS,NO Error,2017-07-25
+"July 17, 2017",Recently_added,American Ninja Warrior,2010,9,6,Denver Qualifiers,"{""amazon""=>[""B073ZLS76K"", ""B073ZLZM64""]}",PASS,NO Error,2017-07-25
+"July 17, 2017",Recently_added,Stitchers,2015,3,6,The Gremlin and the Fixer,"{""itunes""=>[""1260072435""], ""amazon""=>[""B073ZFN5ZD"", ""B073ZFPJH7""]}",Series got mapped but Episode Title didn't matched:Not found in Rovi Metadata:FAIL,"gn_status : PASS,hulu_status :  vudu_status: ",2017-09-20
+"July 17, 2017",Recently_added,The Real Housewives of Orange County,2006,12,2,It's Either My Way or the Feng Shui,"{""itunes""=>[""1260471557""], ""amazon""=>[""B073ZFMTXC"", ""B073ZDYH2G""]}",PASS,NO Error,2017-07-25
+"July 17, 2017",Recently_added,Will,2017,1,3,The Two Gentlemen,"{""itunes""=>[""1258995774""], ""amazon""=>[""B073XTXMKQ"", ""B073XVW3Q5""]}",PASS,NO Error,2017-07-25
+"June 12, 2017",Recently_added,American Dad!,2005,13,14,Julia Rogerts,"{""itunes""=>[""1244359663""], ""amazon""=>[""B0721CDZV5"", ""B072QRHXJ4""]}",Prg_id obtained in search:PASS,NO Error,2017-08-16
+"July 17, 2017",Recently_added,Preacher,2016,2,5,Dallas,"{""amazon""=>[""B073ZF7DMP"", ""B073ZDS2XX""]}",PASS,NO Error,2017-07-25
+"December 19, 2016",Recently_added,People of Earth,2016,1,10,Snake Man and Little Guy,"{""amazon""=>[""B01N19AWNK"", ""B01MUT97ZO""]}",PASS,NO Error,2017-07-25
+"July 25, 2017",Recently_added,Casual,2015,3,12,99,"{""hulu""=>[""1117262""]}",PASS,NO Error,2017-07-26
+"July 18, 2017",Recently_added,Animal Kingdom,2016,2,7,Dig,"{""amazon""=>[""B0741BQYR1"", ""B07419WTQ4""]}",PASS,NO Error,2017-07-26
+"July 18, 2017",Recently_added,Below Deck Mediterranean,2016,2,11,The Dubrovnik Wedgie,"{""amazon""=>[""B074186H5C"", ""B074186H6L""]}",PASS,NO Error,2017-07-26
+"July 18, 2017",Recently_added,Face Off,2011,12,5,String Theory,"{""amazon""=>[""B0741FL8HK"", ""B0741F2KWF""]}",PASS,NO Error,2017-07-26
+"July 18, 2017",Recently_added,The Bold Type,2017,1,3,The Woman Behind the Clothes,"{""hulu""=>[""1114317""], ""amazon""=>[""B0741MSBCX"", ""B0741GKXDD""]}",PASS,NO Error,2017-07-26
+"July 18, 2017",Recently_added,Adam Ruins Everything,2015,2,2,Adam Ruins Weight Loss,"{""amazon""=>[""B073ZMQ461"", ""B073ZMTV53""]}",PASS,NO Error,2017-07-26
+"July 18, 2017",Recently_added,Being Mary Jane,2013,4,11,Feeling Raw,"{""amazon""=>[""B073ZLTJB5"", ""B073ZMQ1T8""]}",PASS,NO Error,2017-07-27
+"July 18, 2017",Recently_added,Chopped,2009,35,1,Clam Clash,"{""amazon""=>[""B0743Q63CJ"", ""B0743ZV854""]}",PASS,NO Error,2017-07-28
+"July 18, 2017",Recently_added,Shooter,2016,2,1,The Hunting Party,"{""amazon""=>[""B073ZM3TL7"", ""B073ZMFLBB""]}",PASS,NO Error,2017-07-26
+"July 19, 2017",Recently_added,Salvation,2017,1,2,Another Trip Around the Sun,"{""amazon""=>[""primesignup"", ""primesignup"", ""primesignup"", ""primesignup""]}",Prg_id obtained in search:FAIL,amazon,2017-09-20
+"July 19, 2017",Recently_added,Suits,2011,7,2,The Statue,"{""itunes""=>[""1261487405""], ""amazon""=>[""B0742JQGCD"", ""B0742KN91Z""]}",PASS,NO Error,2017-07-27
+"July 19, 2017",Recently_added,The Carmichael Show,2015,3,9,Evelyn and Vernon,"{""itunes""=>[""1259613500""], ""amazon""=>[""B073ZN245H"", ""B073ZLTHCY""]}",PASS,NO Error,2017-07-27
+"July 19, 2017",Recently_added,The Real Housewives of New York City,2008,9,16,Three Tequila ... Floor!,"{""itunes""=>[""1261261012""]}",Series got mapped but Episode Title didn't matched:Not found in Rovi Metadata:FAIL,"gn_status : PASS,hulu_status :  vudu_status: ",2017-09-20
+"July 19, 2017",Recently_added,Catfish: The TV Show,2012,6,19,Robert & Ashleigh,"{""amazon""=>[""B0741GJP4Q"", ""B0741H7F2Y""]}",PASS,NO Error,2017-07-28
+"July 19, 2017",Recently_added,Cleverman,2016,2,4,Muya,"{""itunes""=>[""1260065816""], ""amazon""=>[""B073ZMV95Z"", ""B073ZMYT4T""]}",PASS,NO Error,2017-07-27
+"July 19, 2017",Recently_added,Odd Mom Out,2015,3,2,Candle in the Windbag,"{""itunes""=>[""1261455597""], ""amazon""=>[""B0742J2R3N"", ""B0742JL9TT""]}",PASS,NO Error,2017-07-27
+"July 19, 2017",Recently_added,Queen Sugar,2016,2,6,Line of Our Elders,"{""itunes""=>[""1261393735""], ""amazon""=>[""B0742L7N7Q"", ""B0742KXK3M""]}",PASS,NO Error,2017-07-28
+"July 19, 2017",Recently_added,Snowfall,2017,1,3,Slow Hand,"{""itunes""=>[""1260289637""], ""amazon""=>[""B0741P439F"", ""B0741LDZSQ""]}",PASS,NO Error,2017-07-27
+"July 19, 2017",Recently_added,Younger,2015,4,4,In The Pink,"{""amazon""=>[""B0741RJD36"", ""B0741MZ8VF""]}",PASS,NO Error,2017-07-27
+"July 25, 2017",Recently_added,The Daily Show,1996,23,104,Dr. Rola Hallam,"{""itunes""=>[""1263742395""]}",None of the series titles matched:Got prog id from rovi metadata:FAIL,itunes,2017-09-20
+"July 20, 2017",Recently_added,Married At First Sight,2014,5,15,Second Honeymoons,"{""amazon""=>[""B0744N1QTX"", ""B0744N26JN""]}",PASS,NO Error,2017-07-28
+"July 20, 2017",Recently_added,Million Dollar Listing New York,2012,6,9,You Can Call Me Al...berto,"{""amazon""=>[""B0743LKVWH"", ""B0743LR4GM""]}",PASS,NO Error,2017-07-28
+"July 20, 2017",Recently_added,Nashville,2012,5,19,You Can't Lose Me,"{""amazon""=>[""B0743NHTM7"", ""B0743PMS14""]}",PASS,NO Error,2017-07-28
+"July 20, 2017",Recently_added,Impractical Jokers,2011,6,15,Mime and Punishment,"{""amazon""=>[""B0743CT157"", ""B0743CG9WL""]}",PASS,NO Error,2017-07-31
+"July 20, 2017",Recently_added,Queen of the South,2016,2,7,El Precio de la Fe,"{""amazon""=>[""B073ZMVY2W"", ""B073ZN4YGC""]}",PASS,NO Error,2017-07-28
+"July 20, 2017",Recently_added,Saving Hope,2012,5,16,La famiglia,"{""itunes""=>[""1233288020""], ""amazon""=>[""B0746TJX48"", ""B0746TX53X""]}",PASS,NO Error,2017-07-31
+"July 20, 2017",Recently_added,The Mist,2017,1,5,The Waiting Room,"{""amazon""=>[""B0742PG9VB"", ""B0742P5R62""]}",PASS,NO Error,2017-07-28
+"July 20, 2017",Recently_added,The Night Shift,2014,4,5,Turbulence,"{""amazon""=>[""B0743M6C4M"", ""B0743MGQYV""]}",PASS,NO Error,2017-07-28
+"July 20, 2017",Recently_added,Zoo,2015,3,4,Welcome to the Terra Dome,"{""amazon""=>[""B0743DHWKV"", ""B07438T5VZ""]}",PASS,NO Error,2017-07-28
+"January 31, 2017",Recently_added,Teen Wolf,2011,6,10,Riders on the Storm,"{""itunes""=>[""1178584930""], ""amazon""=>[""B01N9XBIRE"", ""B01NC0FYV4""]}",PASS,NO Error,2017-07-31
+"July 23, 2017",Recently_added,American Grit,2016,2,7,Role Reversal,"{""itunes""=>[""1262669700""], ""amazon""=>[""B0746C222K"", ""B0746BXCHT""]}",PASS,NO Error,2017-07-31
+"July 23, 2017",Recently_added,Botched,2014,4,6,4000cc's and Counting,"{""itunes""=>[""1262929689""], ""amazon""=>[""B0746C7F63"", ""B0746CK13Y""]}",PASS,NO Error,2017-07-31
+"July 23, 2017",Recently_added,Claws,2017,1,7,Escape,"{""itunes""=>[""1262904805""], ""amazon""=>[""B0746BTG2Z"", ""B0746CDM3L""]}",PASS,NO Error,2017-07-31
+"July 23, 2017",Recently_added,Food Network Star,2005,13,9,Cooking Goes Live!,"{""itunes""=>[""1262656362""], ""amazon""=>[""B0746CM9HD"", ""B0746C97VW""]}",PASS,NO Error,2017-07-31
+"July 23, 2017",Recently_added,Game of Thrones,2011,7,2,Stormborn,"{""hbogo""=>[""GWSL97gx3ioqXwgEAAAAh""]}",PASS,NO Error,2017-08-03
+"July 23, 2017",Recently_added,Ballers,2015,3,1,Seeds of Expansion,"{""hbogo""=>[""GWTglugn69aO2nAEAAABL""]}",PASS,NO Error,2017-08-03
+"July 23, 2017",Recently_added,I'm Dying Up Here,2017,1,7,"My Rifle, My Pony and Me","{""showtimeanytime""=>[""3433217""]}",PASS,NO Error,2017-07-31
+"May 21, 2017",Recently_added,Naked and Afraid,2013,7,12,Worlds Collide,"{""amazon""=>[""B071P6PDWF"", ""B071FFLJCK""]}",PASS,NO Error,2017-07-31
+"July 23, 2017",Recently_added,The Strain,2014,4,2,The Blood Tax,"{""itunes""=>[""1262442552""], ""amazon""=>[""B0743NLQHW"", ""B0743P8HBR""]}",PASS,NO Error,2017-07-31
+"July 23, 2017",Recently_added,Insecure,2016,2,1,Hella Great,"{""hbogo""=>[""GWSXlQgHEvMPCVwEAAAD7""]}",Prg_id obtained in search:PASS,NO Error,2017-09-04
+"April 1, 2017",Recently_added,Rick and Morty,2013,3,1,The Rickshank Rickdemption,"{""amazon""=>[""B0746CF2BH"", ""B0746CS2T6""]}",Series got mapped but Episode Title didn't matched:Got prog id from rovi metadata:FAIL,amazon,2017-09-20
+"July 24, 2017",Recently_added,Shadowhunters,2016,2,17,A Dark Reflection,"{""itunes""=>[""1262950899""], ""amazon""=>[""B0746CYY5Z"", ""B0746DB3WZ""]}",PASS,NO Error,2017-08-05
+"July 24, 2017",Recently_added,The Bachelorette,2003,13,9,Episode 9,"{""itunes""=>[""1263158312""]}",Series got mapped but Episode Title didn't matched:Not found in Rovi Metadata:FAIL,"gn_status : PASS,hulu_status :  vudu_status: ",2017-09-20
+"July 24, 2017",Recently_added,American Ninja Warrior,2010,9,7,Los Angeles City Finals,"{""amazon""=>[""B0747FS8WL"", ""B0747D7HWP""]}",PASS,NO Error,2017-08-01
+"July 24, 2017",Recently_added,Stitchers,2015,3,7,Just the Two of Us,"{""itunes""=>[""1262956752""], ""amazon""=>[""B0746DWMJV"", ""B0746D9M4J""]}",PASS,NO Error,2017-08-01
+"July 24, 2017",Recently_added,The Real Housewives of Orange County,2006,12,3,The Not So Quiet Woman,"{""itunes""=>[""1263162179""], ""amazon""=>[""B0746SWJHT"", ""B0746TDJLH""]}",PASS,NO Error,2017-08-01
+"July 24, 2017",Recently_added,Will,2017,1,4,Brave New World,"{""itunes""=>[""1260052569""], ""amazon""=>[""B073Z798J1"", ""B073Z8LB7Y""]}",PASS,NO Error,2017-08-01
+"July 24, 2017",Recently_added,Loaded,2017,1,2,Leon's Teacher,"{""itunes""=>[""1257291858""]}",Prg_id obtained in search:PASS,NO Error,2017-08-30
+"July 24, 2017",Recently_added,Preacher,2016,2,6,Sokosha,"{""amazon""=>[""B0744RNDWD"", ""B0744R6ZL8""]}",PASS,NO Error,2017-08-01
+"July 24, 2017",Recently_added,People of Earth,2016,2,1,New Beginnings,"{""itunes""=>[""1263130912""], ""amazon""=>[""B0746JSCQC"", ""B0746JXKR1""]}",PASS,NO Error,2017-08-01
+"August 1, 2017",Recently_added,Casual,2015,3,13,The Hermit & the Moon,"{""hulu""=>[""1119650""]}",PASS,NO Error,2017-08-02
+"July 25, 2017",Recently_added,Animal Kingdom,2016,2,8,Grace,"{""itunes""=>[""1263535647""], ""amazon""=>[""B0747L658Z"", ""B0747RN3V6""]}",PASS,NO Error,2017-08-02
+"July 25, 2017",Recently_added,Below Deck Mediterranean,2016,2,12,Swing Shift,"{""itunes""=>[""1263523176""], ""amazon""=>[""B0747VYFFB"", ""B0747WFLGL""]}",PASS,NO Error,2017-08-02
+"February 21, 2017",Recently_added,Dance Moms,2011,8,14,Same Old Frenemies Part 2,"{""itunes""=>[""1208255891""], ""amazon""=>[""B06VYHFPRQ"", ""B06W5GB7S3""]}",Prg_id obtained in search:PASS,NO Error,2017-08-16
+"July 18, 2017",Recently_added,Deadliest Catch,2005,13,16,450 Mile Storm,"{""itunes""=>[""1261051318""], ""amazon""=>[""B0741WBW6J"", ""B0741RW7BM""]}",PASS,NO Error,2017-08-02
+"July 25, 2017",Recently_added,Face Off,2011,12,6,Possessed Possessions,"{""itunes""=>[""1263515326""], ""amazon""=>[""B0747VW9SS"", ""B0747TX13L""]}",PASS,NO Error,2017-08-02
+"July 25, 2017",Recently_added,The Bold Type,2017,1,4,If You Can't Do It With Feeling,"{""amazon""=>[""B0747MVKG5"", ""B0747M9C5R""]}",PASS,NO Error,2017-08-02
+"July 25, 2017",Recently_added,Adam Ruins Everything,2015,2,3,Adam Ruins the Hospital,"{""itunes""=>[""1263285234""], ""amazon""=>[""B0747PQCGT"", ""B0747R4TGR""]}",PASS,NO Error,2017-08-02
+"July 25, 2017",Recently_added,Being Mary Jane,2013,4,12,Feeling Conflicted,"{""itunes""=>[""1259589978""], ""amazon""=>[""B0746SN55Z"", ""B0746TJV23""]}",PASS,NO Error,2017-08-03
+"July 25, 2017",Recently_added,Ink Master,2012,9,8,On the Bubble,"{""itunes""=>[""1263176441""], ""amazon""=>[""B07474GVXD"", ""B0746V2V13""]}",PASS,NO Error,2017-08-02
+"July 25, 2017",Recently_added,Shooter,2016,2,2,Remember the Alamo,"{""amazon""=>[""B0747KCDPQ"", ""B0747PYDDL""]}",PASS,NO Error,2017-08-02
+"July 25, 2017",Recently_added,Somewhere Between,2017,1,2,2,"{""itunes""=>[""1260476249""]}",Series got mapped but Episode Title didn't matched:Got prog id from rovi metadata:FAIL,itunes,2017-09-20
+"July 25, 2017",Recently_added,Wrecked,2016,2,6,Sister Mercy,"{""itunes""=>[""1263127414""], ""amazon""=>[""B0747X11CR"", ""B0747WWZJJ""]}",PASS,NO Error,2017-08-02
+"July 26, 2017",Recently_added,Salvation,2017,1,3,Truth or Darius,"{""amazon""=>[""primesignup"", ""primesignup"", ""primesignup"", ""primesignup""]}",Prg_id obtained in search:FAIL,amazon,2017-09-20
+"July 26, 2017",Recently_added,Suits,2011,7,3,Mudmare,"{""itunes""=>[""1264011550""], ""amazon""=>[""B0748MNKLK"", ""B0748MWMTF""]}",PASS,NO Error,2017-08-03
+"July 26, 2017",Recently_added,The Carmichael Show,2015,3,10,Maxine's Sister,"{""itunes""=>[""1262555199""], ""amazon""=>[""B0746YY8NN"", ""B07473NMG5""]}",PASS,NO Error,2017-08-03
+"July 26, 2017",Recently_added,Blood Drive,2017,1,7,The Gentleman's Agreement,"{""itunes""=>[""1263808460""], ""amazon""=>[""B0748GV65G"", ""B0748HLTCN""]}",PASS,NO Error,2017-08-03
+"July 26, 2017",Recently_added,Cleverman,2016,2,5,Skin,"{""itunes""=>[""1263321004""], ""amazon""=>[""B0747VSV2H"", ""B0747VDC1K""]}",PASS,NO Error,2017-08-03
+"July 26, 2017",Recently_added,Odd Mom Out,2015,3,3,M.F.A. in B.S.,"{""itunes""=>[""1264169243""], ""amazon""=>[""B0749JYWSL"", ""B0749H3W37""]}",PASS,NO Error,2017-08-03
+"July 26, 2017",Recently_added,Queen Sugar,2016,2,7,I Know My Soul,"{""itunes""=>[""1264005546""], ""amazon""=>[""B0748GGLQQ"", ""B0748GX2VL""]}",PASS,NO Error,2017-08-03
+"July 26, 2017",Recently_added,Salvation,2017,1,3,Truth or Darius,"{""amazon""=>[""primesignup"", ""primesignup"", ""primesignup"", ""primesignup""]}",Prg_id obtained in search:FAIL,amazon,2017-09-20
+"July 26, 2017",Recently_added,Snowfall,2017,1,4,Trauma,"{""itunes""=>[""1262478045""], ""amazon""=>[""B07471HZB8"", ""B0746Z8DYW""]}",PASS,NO Error,2017-08-03
+"July 26, 2017",Recently_added,Younger,2015,4,5,The Gift of the Maggie,"{""itunes""=>[""1263695078""], ""amazon""=>[""B0748HNCX4"", ""B0748HF4LG""]}",PASS,NO Error,2017-08-03
+"July 30, 2017",Recently_added,Botched,2014,4,7,Lumpy Lady Lumps,"{""itunes""=>[""1265678714""], ""amazon""=>[""B074DR5WT5"", ""B074DRVDBB""]}",PASS,NO Error,2017-08-04
+"July 27, 2017",Recently_added,Nashville,2012,5,20,Speed Trap Town,"{""amazon""=>[""B074CF4TD8"", ""B074CF8QWR""]}",PASS,NO Error,2017-08-04
+"July 27, 2017",Recently_added,Impractical Jokers,2011,6,16,Three Men and Your Baby,"{""itunes""=>[""1264745605""], ""amazon""=>[""B074BGYGX2"", ""B074BHM2T3""]}",PASS,NO Error,2017-08-04
+"July 27, 2017",Recently_added,Queen of the South,2016,2,8,Sacar Con Sifón el Mar,"{""itunes""=>[""1262945179""], ""amazon""=>[""B07474HMYY"", ""B07475C3M9""]}",PASS,NO Error,2017-08-04
+"July 27, 2017",Recently_added,Saving Hope,2012,5,16,La famiglia,"{""itunes""=>[""1233288020""], ""amazon""=>[""B0746TJX48"", ""B0746TX53X""]}",PASS,NO Error,2017-08-04
+"July 27, 2017",Recently_added,The Mist,2017,1,6,The Devil You Know,"{""itunes""=>[""1263686952""], ""amazon""=>[""B0748MTMQD"", ""B0748NPV5K""]}",PASS,NO Error,2017-08-04
+"July 27, 2017",Recently_added,Zoo,2015,3,5,Drop It Like It's Hot,"{""itunes""=>[""1264348943""], ""amazon""=>[""B0749NN232"", ""B0749NQXJW""]}",Prg_id obtained in search:PASS,NO Error,2017-08-16
+"August 4, 2017",Recently_added,Chelsea,2016,2,15,Let's Keep Moving Forward,"{""netflixusa""=>[""80154015""]}",Prg_id obtained in search:PASS,NO Error,2017-08-16
+"August 4, 2017",Recently_added,Room 104,2017,1,2,Pizza Boy,"{""hbogo""=>[""GWVE54gxVe5ShqQEAAAAK""]}",PASS,NO Error,2017-08-05
+"August 7, 2017",Recently_added,Will,2017,1,6,Something Wicked This Way Comes,"{""amazon""=>[""B073Z7T9F3"", ""B073Z8SRD7""]}",Prg_id obtained in search:PASS,NO Error,2017-08-16
+"August 7, 2017",Recently_added,"Midnight, Texas",2017,1,3,"Lemuel, Unchained","{""itunes""=>[""1268437526""]}",Prg_id obtained in search:PASS,NO Error,2017-08-16
+"August 7, 2017",Recently_added,Preacher,2016,2,8,Holes,"{""itunes""=>[""1268703258""]}",Prg_id obtained in search:PASS,NO Error,2017-08-16
+"August 22, 2017",Recently Added,Difficult People,2017,3,5,Cindarestylox,"{""hulu""=>[""1127995""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",hulu,2017-09-20
+"August 22, 2017",Recently Added,Bachelor in Paradise,2017,4,4,402B,"{""amazon""=>[""B01K2WNVS8"", ""B01K2WOHVS""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",amazon,2017-09-20
+"August 22, 2017",Recently Added,Animal Kingdom,2017,2,12,You Will Be Gutted,"{""itunes""=>[""1274127414""]}",Prg_id obtained in search:PASS,NO Error,2017-08-30
+"August 22, 2017",Recently Added,Dance Moms,2017,9,4,"Out With Abby, In With Chloe - Part 2","{""itunes""=>[""1274013438""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",itunes,2017-09-20
+"August 22, 2017",Recently Added,Adam Ruins Everything,2017,2,7,Adam Ruins College,"{""itunes""=>[""1272782409""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",itunes,2017-09-20
+"August 22, 2017",Recently Added,Ink Master,2017,9,12,Grim Inker,"{""itunes""=>[""1273847940""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",itunes,2017-09-20
+"August 22, 2017",Recently Added,Somewhere Between,2017,1,6,Madness,"{""itunes""=>[""1273762381""]}",Prg_id obtained in search:PASS,NO Error,2017-09-02
+"August 15, 2017",Recently Added,Face Off,2017,12,9,Journey Into Fear - Part 1,"{""itunes""=>[""1271664509""], ""amazon""=>[""B074T8WJKM"", ""B074TCC3CL""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",itunes; amazon,2017-09-20
+"August 16, 2017",Recently Added,Marlon,2017,1,2,Cleaning Out the Closet,"{""hulu""=>[""1128497"", ""1128496""], ""itunes""=>[""1272018248""], ""amazon""=>[""B074VHNB7C"", ""B074VHNKPL""]}",Prg_id obtained in search:FAIL,hulu,2017-09-20
+"August 16, 2017",Recently Added,Salvation,2017,1,8,"From Russia, With Love","{""amazon""=>[""primesignup"", ""primesignup"", ""primesignup"", ""primesignup""]}",Prg_id obtained in search:FAIL,amazon,2017-09-20
+"August 16, 2017",Recently Added,Suits,2017,7,6,Home to Roost,"{""itunes""=>[""1272577611""], ""amazon""=>[""B074VPCPV8"", ""B074VT1WQN""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",itunes; amazon,2017-09-20
+"August 16, 2017",Recently Added,Wahlburgers,2017,8,4,Weiner Takes All,"{""itunes""=>[""1272174026""], ""amazon""=>[""B074VY2L3X"", ""B074W1788Y""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",itunes; amazon,2017-09-20
+"August 16, 2017",Recently Added,Marlon,2017,1,2,Cleaning Out the Closet,"{""hulu""=>[""1128497"", ""1128496""], ""itunes""=>[""1272018248""], ""amazon""=>[""B074VHNB7C"", ""B074VHNKPL""]}",Prg_id obtained in search:FAIL,hulu,2017-09-20
+"August 16, 2017",Recently Added,Odd Mom Out,2017,3,6,Dadderall,"{""itunes""=>[""1272162724""], ""amazon""=>[""B074VF1ZCC"", ""B074VF89G8""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",itunes; amazon,2017-09-20
+"August 16, 2017",Recently Added,Wahlburgers,2017,8,4,Weiner Takes All,"{""itunes""=>[""1272174026""], ""amazon""=>[""B074VY2L3X"", ""B074W1788Y""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",itunes; amazon,2017-09-20
+"August 16, 2017",Recently Added,Blood Drive,2017,1,10,Scar Tissue,"{""itunes""=>[""1272043878""], ""amazon""=>[""B074V6P8K5"", ""B074V8CMPD""]}",Prg_id obtained in search:PASS,NO Error,2017-08-24
+"August 16, 2017",Recently Added,Catfish: The TV Show,2017,6,21,Nicole & Nicole,"{""amazon""=>[""B074TQTGGM"", ""B074TTQPSQ""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",amazon,2017-09-20
+"August 16, 2017",Recently Added,Greenleaf,2017,2,10,Call Not Complete,"{""itunes""=>[""1272361292""], ""amazon""=>[""B074WK5BJ5"", ""B074WG7BWZ""]}",Prg_id obtained in search:PASS,NO Error,2017-08-24
+"August 16, 2017",Recently Added,Snowfall,2017,1,7,Cracking,"{""itunes""=>[""1270638920""], ""amazon""=>[""B074TMW8LX"", ""B074TJ2G8Z""]}",Prg_id obtained in search:PASS,NO Error,2017-08-24
+"August 16, 2017",Recently Added,The Lowe Files,2017,1,3,Bigfoot,"{""itunes""=>[""1272185154""], ""amazon""=>[""B074VDF4VM"", ""B074VFTPMN""]}",Prg_id obtained in search:PASS,NO Error,2017-09-14
+"August 16, 2017",Recently Added,The Sinner,2017,1,3,Part III,"{""itunes""=>[""1272041735""], ""amazon""=>[""B074VRLXVF"", ""B074VSVYZ5""]}",Prg_id obtained in search:PASS,NO Error,2017-08-24
+"August 16, 2017",Recently Added,Younger,2017,4,8,The Gelato and the Pube,"{""itunes""=>[""1271425628""], ""amazon""=>[""B074SZ1HB9"", ""B074SZF8MB""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",itunes; amazon,2017-09-20
+"August 25, 2017",Recently Added,Disjointed,2017,1,10,The Worst,"{""netflixusa""=>[""80125408""]}",Prg_id obtained in search:PASS,NO Error,2017-09-09
+"August 18, 2017",Recently Added,Dark Matter,2017,3,12,My Final Gift to You,"{""itunes""=>[""1273504976""], ""amazon""=>[""B074XT66VV"", ""B074XSW8N9""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",itunes; amazon,2017-09-20
+"August 18, 2017",Recently Added,Wynonna Earp,2017,2,11,Gone as a Girl Can Get,"{""itunes""=>[""1273007308""], ""amazon""=>[""B074YCPZNY"", ""B074YFVF8T""]}",Prg_id obtained in search:PASS,NO Error,2017-08-26
+"August 18, 2017",Recently Added,Room 104,2017,1,4,I Knew You Weren't Dead,"{""hbogo""=>[""GWVE6eAwF1MLDwgEAAAAK""]}",Prg_id obtained in search:PASS,NO Error,2017-09-09
+"August 19, 2017",Recently Added,Halt and Catch Fire,2017,4,2,Signal to Noise,"{""amazon""=>[""B074XJSXJP"", ""B074XKF2WD""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",amazon,2017-09-20
+"August 22, 2017",Recently Added,Bachelor in Paradise,2017,4,4,402B,"{""amazon""=>[""B01K2WNVS8"", ""B01K2WOHVS"", ""B0751LZK85"", ""B0751LFXQ2""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",amazon,2017-09-20
+"August 21, 2017",Recently Added,American Ninja Warrior,2017,9,11,Kansas City City Finals,"{""hulu""=>[""1130643""], ""amazon""=>[""B074ZZF686"", ""B0751377ZJ""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",hulu; amazon,2017-09-20
+"August 21, 2017",Recently Added,Will,2017,1,8,Your Houses,"{""itunes""=>[""1262669557""], ""amazon""=>[""B07461CTH5"", ""B0745W5VV8""]}",Prg_id obtained in search:PASS,NO Error,2017-08-29
+"August 21, 2017",Recently Added,American Dad!,2017,13,19,Kloger,"{""itunes""=>[""1273883792""], ""amazon""=>[""B075137F84"", ""B07518CS7W""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",itunes; amazon,2017-09-20
+"August 21, 2017",Recently Added,"Midnight, Texas",2017,1,5,Unearthed,"{""hulu""=>[""1130312"", ""1130352""], ""itunes""=>[""1273671988""], ""amazon""=>[""B074ZHVFZ8"", ""B074ZF7RTL""]}",Prg_id obtained in search:FAIL,hulu,2017-09-20
+"August 21, 2017",Recently Added,Preacher,2017,2,10,Dirty Little Secret,"{""itunes""=>[""1273813617""], ""amazon""=>[""B074ZMJKGS"", ""B074ZMY4RW""]}",Prg_id obtained in search:PASS,NO Error,2017-08-29
+"August 21, 2017",Recently Added,Siesta Key,2017,1,4,Alex's Kingdom,"{""amazon""=>[""B0751XKDNL"", ""B0751SBJY6""]}",Prg_id obtained in search:PASS,NO Error,2017-09-14
+"August 21, 2017",Recently Added,The Real Housewives of Dallas,2017,2,2,Haute Dogs of Dallas,"{""itunes""=>[""1273669792""], ""amazon""=>[""B074Z8P1L6"", ""B074Z9D5M9""]}",Prg_id obtained in search:PASS,NO Error,2017-08-29
+"August 21, 2017",Recently Added,People of Earth,2017,2,5,Why Can't We Be Friends?,"{""itunes""=>[""1273765589""], ""amazon""=>[""B074ZNBH5B"", ""B074ZLHJC5""]}",Prg_id obtained in search:PASS,NO Error,2017-08-29
+"August 29, 2017",Recently Added,Difficult People,2017,3,6,Bernie & Blythe,"{""hulu""=>[""1130784"", ""1130222""]}","series didn't mapped as release year of series,S1E1,airdate of S1E1 didn't mapped with input release year:Got prog id from rovi metadata:FAIL",hulu,2017-09-20
+"September 6, 2017",Recently Added,Wahlburgers,2014,8,11,Has-Bros,"{""amazon""=>[""B0757T7VK8"", ""B0757XK43Z""]}",Prg_id obtained in search:PASS,NO Error,2017-09-13
+"August 31, 2017",Recently Added,Flipping Out,2007,10,3,"Well, Hello, Monroe","{""itunes""=>[""1277598072""], ""amazon""=>[""B0758N5SWS"", ""B0758H6KNQ""]}",Prg_id obtained in search:PASS,NO Error,2017-09-08
+"August 24, 2017",Recently Added,Whose Line Is It Anyway?,1998,13,11,Charles Esten 1,"{""itunes""=>[""1275168837""], ""amazon""=>[""B07541F7VC"", ""B07546F2RQ""]}",Prg_id obtained in search:FAIL,itunes; amazon,2017-09-20
+"August 31, 2017",Recently Added,Girlfriends' Guide to Divorce,2014,4,3,Rule No. 706: Let Them Eat Cupcakes,"{""itunes""=>[""1277754187""], ""amazon""=>[""B0758FVRN7"", ""B0758GPZS2""]}",Series got mapped but Episode Title didn't matched:Not found in Rovi Metadata:FAIL,"gn_status : PASS,hulu_status :  vudu_status: ",2017-09-19
+"August 31, 2017",Recently Added,Ice Road Truckers,2007,11,2,Jackknife Jeopardy,"{""itunes""=>[""1277841378""], ""amazon""=>[""B0759GM1Z5"", ""B0759GL94V""]}",Prg_id obtained in search:PASS,NO Error,2017-09-08
+"August 20, 2017",Recently Added,Naked and Afraid,2013,8,7,Belize Breakdown,"{""amazon""=>[""B074YKCHQC"", ""B074YKMN8X""]}",Prg_id obtained in search:PASS,NO Error,2017-09-08
+"August 31, 2017",Recently Added,The Guest Book,2017,1,6,Story Six,"{""itunes""=>[""1277740337""], ""amazon""=>[""B0755L1HJW"", ""B0755JG4Z3""]}",Prg_id obtained in search:FAIL,itunes,2017-09-20
+"August 31, 2017",Recently Added,Zoo,2015,3,10,Once Upon a Time in the Nest,"{""amazon""=>[""B0758DK1HL"", ""B0758FT7JR""]}",Prg_id obtained in search:PASS,NO Error,2017-09-08
+"September 6, 2017",Recently Added,The Tonight Show Starring Jimmy Fallon,2014,2017,133,"Seth MacFarlane, Elisabeth Moss, Thomas Rhett","{""hulu""=>[""1137165""]}",Series got mapped but All episodes api is Empty:Not found in Rovi Metadata:FAIL,"gn_status : FAIL,hulu_status : FAIL vudu_status: ",2017-09-20
+"September 8, 2017",Recently Added,BoJack Horseman,2014,4,12,What Time Is It Right Now,"{""netflixusa""=>[""80125591""]}",Prg_id obtained in search:PASS,NO Error,2017-09-11
+"September 8, 2017",Recently Added,BoJack Horseman,2014,4,12,What Time Is It Right Now,"{""netflixusa""=>[""80125591""]}",Prg_id obtained in search:PASS,NO Error,2017-09-11
+"September 8, 2017",Recently Added,BoJack Horseman,2014,4,12,What Time Is It Right Now,"{""netflixusa""=>[""80125591""]}",Prg_id obtained in search:PASS,NO Error,2017-09-11
+"September 8, 2017",Recently Added,BoJack Horseman,2014,4,12,What Time Is It Right Now,"{""netflixusa""=>[""80125591""]}",Prg_id obtained in search:PASS,NO Error,2017-09-11
+"September 8, 2017",Recently Added,BoJack Horseman,2014,4,12,What Time Is It Right Now,"{""netflixusa""=>[""80125591""]}",Prg_id obtained in search:PASS,NO Error,2017-09-11
+"September 8, 2017",Recently Added,BoJack Horseman,2014,4,12,What Time Is It Right Now,"{""netflixusa""=>[""80125591""]}",Prg_id obtained in search:PASS,NO Error,2017-09-11
+"September 8, 2017",Recently Added,BoJack Horseman,2014,4,12,What Time Is It Right Now,"{""netflixusa""=>[""80125591""]}",Prg_id obtained in search:PASS,NO Error,2017-09-11
+"September 8, 2017",Recently Added,BoJack Horseman,2014,4,12,What Time Is It Right Now,"{""netflixusa""=>[""80125591""]}",Prg_id obtained in search:PASS,NO Error,2017-09-11
+"September 8, 2017",Recently Added,BoJack Horseman,2014,4,12,What Time Is It Right Now,"{""netflixusa""=>[""80125591""]}",Prg_id obtained in search:PASS,NO Error,2017-09-11
+"September 8, 2017",Recently Added,BoJack Horseman,2014,4,12,What Time Is It Right Now,"{""netflixusa""=>[""80125591""]}",Prg_id obtained in search:PASS,NO Error,2017-09-11
+"September 8, 2017",Recently Added,BoJack Horseman,2014,4,12,What Time Is It Right Now,"{""netflixusa""=>[""80125591""]}",Prg_id obtained in search:PASS,NO Error,2017-09-11
+"September 8, 2017",Recently Added,BoJack Horseman,2014,4,12,What Time Is It Right Now,"{""netflixusa""=>[""80125591""]}",Prg_id obtained in search:PASS,NO Error,2017-09-11
+"September 1, 2017",Recently Added,Room 104,2017,1,6,Voyeurs,"{""hbogo""=>[""GWW9vTAphZHHCwwEAAAAR""]}",Prg_id obtained in search:PASS,NO Error,2017-09-09
+"August 26, 2017",Recently Added,Halt and Catch Fire,2014,4,3,Miscellaneous,"{""itunes""=>[""1275150911""], ""amazon""=>[""B0753XXYXK"", ""B07542Z1VV""]}",Prg_id obtained in search:PASS,NO Error,2017-09-10
+Scraped Date,Category,Series Name,Release_Year,Season Number,Episode Number,Episode Title,Hash
+"September 10, 2017",Recently Added,Ballers,2015,3,8,Alley-Oops,"{""hbogo""=>[""GWW50PASabMI""]}",Prg_id obtained in search:FAIL,hbogo,2017-09-20
+"September 10, 2017",Recently Added,Insecure,2016,2,8,Hella Perspective,"{""hbogo""=>[""GWW50BgeGXzmuogEAAABH""]}",Prg_id obtained in search:PASS,NO Error,2017-09-11
+"September 11, 2017",Recently Added,Bachelor in Paradise,2014,4,9,405A,"{""amazon""=>[""B01L7W5DSI"", ""B01L7W4PD2""]}",Prg_id obtained in search:FAIL,amazon,2017-09-20
+"September 12, 2017",Recently Added,Difficult People,2015,3,8,Criminal Minds,"{""hulu""=>[""1136391""]}",Prg_id obtained in search:PASS,NO Error,2017-09-15
+"September 12, 2017",Recently Added,The Mindy Project,2012,6,1,Is That All There Is,"{""hulu""=>[""1138146""]}",Prg_id obtained in search:PASS,NO Error,2017-09-15
+"September 5, 2017",Recently Added,Below Deck,2013,5,1,The 1 Percenters,"{""itunes""=>[""1279188634""], ""amazon""=>[""B075DKR9N2"", ""B075DHZ896""]}",Prg_id obtained in search:PASS,NO Error,2017-09-13
+"September 5, 2017",Recently Added,Dance Moms,2011,9,6,"Stamina, Stamina, Stamina","{""itunes""=>[""1279397569""], ""amazon""=>[""B075DX9BGW"", ""B075F39LN4""]}",Prg_id obtained in search:PASS,NO Error,2017-09-14
+"",Recently Added,Top of the Lake,2013,2,4,Birthday,"{""hulu""=>[""1131343""]}",Prg_id obtained in search:PASS,NO Error,2017-09-15
+"September 5, 2017",Recently Added,American Horror Story,2011,7,1,Election Night,"{""itunes""=>[""1268292588""], ""amazon""=>[""B075DF34LM"", ""B075D4VPHT""]}",Series got mapped but All episodes api is Empty:Got prog id from rovi metadata:FAIL,itunes; amazon,2017-09-20
+"September 5, 2017",Recently Added,Being Mary Jane,2013,4,18,Feeling Destined,"{""amazon""=>[""B075D93GMZ"", ""B075DB6X56""]}",Prg_id obtained in search:PASS,NO Error,2017-09-14
+"September 5, 2017",Recently Added,Chopped,2009,35,8,Food Truck Luck,"{""amazon""=>[""B075D848XL"", ""B075D8C6PQ""]}",Prg_id obtained in search:PASS,NO Error,2017-09-13
+"April 11, 2017",Recently Added,Chrisley Knows Best,2014,5,8,Dancing Tween,"{""amazon""=>[""B06Y667TRT"", ""B06Y92XHWD""]}",Prg_id obtained in search:PASS,NO Error,2017-09-13
+"September 5, 2017",Recently Added,Ink Master,2012,9,14,Sell Out,"{""itunes""=>[""1278376244""], ""amazon""=>[""B075DD8ZSH"", ""B075DBTHY1""]}",Prg_id obtained in search:FAIL,itunes,2017-09-20
+"September 5, 2017",Recently Added,Leah Remini: Scientology and the Aftermath,2016,2,4,The Bridge to Total Freedom,"{""amazon""=>[""B075F12Q6M"", ""B075DYQ4V1""]}",Prg_id obtained in search:PASS,NO Error,2017-09-13
+"September 5, 2017",Recently Added,Somewhere Between,2017,1,8,Destiny's Child,"{""hulu""=>[""1136384""], ""itunes""=>[""1278753510""], ""amazon""=>[""B075DXFHRY"", ""B075DK7G46""]}",Prg_id obtained in search:PASS,NO Error,2017-09-14
+"",Recently Added,Top of the Lake,2013,2,4,Birthday,"{""hulu""=>[""1131343""]}",Prg_id obtained in search:PASS,NO Error,2017-09-15
+"September 14, 2017",Recently Added,The Guest Book,2017,1,8,Story Eight,"{""amazon""=>[""B075FQ8MJQ"", ""B075FVV7PC""]}",Prg_id obtained in search:PASS,NO Error,2017-09-18
+"September 15, 2017",Recently Added,American Vandal,2017,1,8,Clean Up,"{""netflixusa""=>[""80134626""]}",Prg_id obtained in search:PASS,NO Error,2017-09-18
+"September 15, 2017",Recently Added,American Vandal,2017,1,8,Clean Up,"{""netflixusa""=>[""80134626""]}",Prg_id obtained in search:PASS,NO Error,2017-09-18
+"September 15, 2017",Recently Added,American Vandal,2017,1,8,Clean Up,"{""netflixusa""=>[""80134626""]}",Prg_id obtained in search:PASS,NO Error,2017-09-18
+"September 15, 2017",Recently Added,American Vandal,2017,1,8,Clean Up,"{""netflixusa""=>[""80134626""]}",Prg_id obtained in search:PASS,NO Error,2017-09-18
+"September 15, 2017",Recently Added,American Vandal,2017,1,8,Clean Up,"{""netflixusa""=>[""80134626""]}",Prg_id obtained in search:PASS,NO Error,2017-09-18
+"September 15, 2017",Recently Added,American Vandal,2017,1,8,Clean Up,"{""netflixusa""=>[""80134626""]}",Prg_id obtained in search:PASS,NO Error,2017-09-18
+"September 15, 2017",Recently Added,American Vandal,2017,1,8,Clean Up,"{""netflixusa""=>[""80134626""]}",Prg_id obtained in search:PASS,NO Error,2017-09-18
+"September 15, 2017",Recently Added,American Vandal,2017,1,8,Clean Up,"{""netflixusa""=>[""80134626""]}",Prg_id obtained in search:PASS,NO Error,2017-09-18
+"September 8, 2017",Recently Added,Ancient Aliens,2009,12,15,The Alien Disks,"{""amazon""=>[""B075H2VXGX"", ""B075H42R9F""]}",Prg_id obtained in search:PASS,NO Error,2017-09-16
+"September 8, 2017",Recently Added,Ridiculousness,2011,10,5,DJ Mustard,"{""amazon""=>[""B075GVCZ1C"", ""B075GMWKNW""]}",Prg_id obtained in search:PASS,NO Error,2017-09-16
+"September 8, 2017",Recently Added,Ridiculousness,2011,10,5,DJ Mustard,"{""amazon""=>[""B075GVCZ1C"", ""B075GMWKNW""]}",Prg_id obtained in search:PASS,NO Error,2017-09-16
+"September 8, 2017",Recently Added,Room 104,2017,1,7,The Missionaries,"{""hbogo""=>[""GWW9vKgTn138qmAEAAAAN""]}",Prg_id obtained in search:PASS,NO Error,2017-09-16
+"September 9, 2017",Recently Added,Halt and Catch Fire,2014,4,4,Tonya and Nancy,"{""amazon""=>[""B075HTFJQT"", ""B075HTNXN6""]}",Prg_id obtained in search:PASS,NO Error,2017-09-17
+"September 10, 2017",Recently Added,Fear the Walking Dead,2015,3,10,Diviner,"{""amazon""=>[""B075HGYJT9"", ""B075HH481M""]}",Series got mapped but Episode Title didn't matched:Got prog id from rovi metadata:FAIL,amazon,2017-09-20
+"September 10, 2017",Recently Added,Life of Kylie,2017,1,7,Peru Pt. 1,"{""amazon""=>[""B075J5TQGB"", ""B075J79GJH""]}",Prg_id obtained in search:PASS,NO Error,2017-09-18
+"September 10, 2017",Recently Added,Ray Donovan,2013,5,5,Shabbos Goy,"{""showtimeanytime""=>[""3444618""]}",Prg_id obtained in search:PASS,NO Error,2017-09-18
+"September 10, 2017",Recently Added,The Great Food Truck Race,2010,8,4,Hot Chicken in the City,"{""amazon""=>[""B075HXTCZB"", ""B075HYPM84""]}",Series got mapped but Episode Title didn't matched:Got prog id from rovi metadata:FAIL,amazon,2017-09-20
+"September 10, 2017",Recently Added,Ballers,2015,3,8,Alley-Oops,"{""hbogo""=>[""GWW50PASabMI""]}",Prg_id obtained in search:FAIL,hbogo,2017-09-20
+"September 10, 2017",Recently Added,The Strain,2014,4,9,The Traitor,"{""amazon""=>[""B075H2GQC8"", ""B075H1NJKD""]}",Prg_id obtained in search:PASS,NO Error,2017-09-18
+"September 10, 2017",Recently Added,Episodes,2011,5,3,Episode 3,"{""showtimeanytime""=>[""3439688""]}",Series got mapped but Episode Title didn't matched:Got prog id from rovi metadata:FAIL,showtimeanytime,2017-09-20
+"September 18, 2016",Recently Added,Vice Principals,2016,1,9,End of the Line,"{""hbogo""=>[""GV5feyAxOGiSKwwEAAAAd""], ""amazon""=>[""B01M5AQ36M"", ""B01MAVZ48D""]}",Prg_id obtained in search:PASS,NO Error,2017-09-18
+"September 10, 2017",Recently Added,Rick and Morty,2013,3,7,The Ricklantis Mixup,"{""amazon""=>[""B075J35JRQ"", ""B075J2814Y""]}",Prg_id obtained in search:PASS,NO Error,2017-09-18
+"September 17, 2017",Recently Added,Ballers,2015,3,9,Crackback,"{""hbogo""=>[""GWW50MAM7""]}",Prg_id obtained in search:FAIL,hbogo,2017-09-20
+"September 17, 2017",Recently Added,Vice Principals,2016,2,1,Tiger Town,"{""hbogo""=>[""GWZtGbwWF8bXCLwEAAAB6""]}",Prg_id obtained in search:PASS,NO Error,2017-09-18
+"September 13, 2017",Recently Added,"Midnight, Texas",2017,1,9,Riders on the Storm,"{""hulu""=>[""1140292""], ""amazon""=>[""B075LHRVRL"", ""B075LD2VKG""]}",Prg_id obtained in search:PASS,NO Error,2017-09-19
+"September 11, 2017",Recently Added,Siesta Key,2017,1,7,Messy Messy Kelsey,"{""amazon""=>[""B075K5H6H5"", ""B075K5Y8DY""]}",Prg_id obtained in search:PASS,NO Error,2017-09-19
+"September 11, 2017",Recently Added,The Real Housewives of Dallas,2016,2,5,Walking in Memphis,"{""amazon""=>[""B075JPZD3S"", ""B075JSSCRN""]}",Prg_id obtained in search:PASS,NO Error,2017-09-19
+"September 11, 2017",Recently Added,People of Earth,2016,2,8,Alien Experiencer Expo,"{""amazon""=>[""B075JRTTGY"", ""B075JPY1NZ""]}",Prg_id obtained in search:PASS,NO Error,2017-09-19
+"September 15, 2017",Recently Added,The Tonight Show Starring Jimmy Fallon,2014,2017,140,"Benedict Cumberbatch, Savannah Guthrie, Andy Grammer featuring Lunchmoney Lewis","{""hulu""=>[""1141557""]}",Series got mapped but All episodes api is Empty:Not found in Rovi Metadata:FAIL,"gn_status : FAIL,hulu_status : FAIL vudu_status: ",2017-09-20
+"September 19, 2017",Recently Added,Difficult People,2015,3,9,Sweet Tea,"{""hulu""=>[""1137484""]}",Series got mapped but Episode Title didn't matched:Not found in Rovi Metadata:FAIL,"gn_status : FAIL,hulu_status : PASS vudu_status: ",2017-09-20
+"September 19, 2017",Recently Added,The Mindy Project,2012,6,2,A Romantical Decouplement,"{""hulu""=>[""1141395""]}",Series got mapped but Episode Title didn't matched:Not found in Rovi Metadata:FAIL,"gn_status : FAIL,hulu_status : PASS vudu_status: ",2017-09-20
+"September 12, 2017",Recently Added,Below Deck,2013,5,2,It Ain't Easy Being Green,"{""amazon""=>[""B075KFHNRR"", ""B075KL3C2J""]}",Series got mapped but Episode Title didn't matched:Not found in Rovi Metadata:FAIL,"gn_status : PASS,hulu_status :  vudu_status: ",2017-09-20
+"March 8, 2016",Recently Added,The Little Couple,2009,10,10,A Little 4-1-1,"{""amazon""=>[""B01CPUO9D6"", ""B01CPUO5VM""]}",Prg_id obtained in search:PASS,NO Error,2017-09-20
+"August 29, 2017",Recently Added,Adam Ruins Everything,2015,2,8,Emily Ruins Adam,"{""amazon""=>[""B0756Q44Q3"", ""B0756QW5WX""]}",Prg_id obtained in search:PASS,NO Error,2017-09-20
+"September 12, 2017",Recently Added,American Horror Story,2011,7,2,Don't Be Afraid of the Dark,"{""amazon""=>[""B075JP62WD"", ""B075JP8JG2""]}",Series got mapped but All episodes api is Empty:Got prog id from rovi metadata:FAIL,amazon,2017-09-20
+"September 12, 2017",Recently Added,Being Mary Jane,2013,4,19,Feeling Seen,"{""amazon""=>[""B075JR5BGJ"", ""B075JS1MMZ""]}",Prg_id obtained in search:PASS,NO Error,2017-09-20
+"September 12, 2017",Recently Added,Chopped,2009,35,9,Waffles for the Win,"{""amazon""=>[""B075JRLJ1B"", ""B075JS3CDP""]}",Prg_id obtained in search:FAIL,amazon,2017-09-20
+"September 12, 2017",Recently Added,Chrisley Knows Best,2014,5,9,Moms Just Wanna Have Fun,"{""amazon""=>[""B075KK4SL5"", ""B075KN6FF6""]}",Prg_id obtained in search:PASS,NO Error,2017-09-20
+"September 12, 2017",Recently Added,Ink Master,2012,9,15,Casting the First Stone,"{""amazon""=>[""B075KJQ4CW"", ""B075KJYCR9""]}",Prg_id obtained in search:PASS,NO Error,2017-09-20
+"September 12, 2017",Recently Added,Leah Remini: Scientology and the Aftermath,2016,2,5,The Rise of David Miscavige,"{""amazon""=>[""B075L2YJHJ"", ""B075L8MP1X""]}",Prg_id obtained in search:PASS,NO Error,2017-09-20
+"September 12, 2017",Recently Added,Somewhere Between,2017,1,9,Ghost,"{""hulu""=>[""1139504""]}",Prg_id obtained in search:PASS,NO Error,2017-09-20
+"August 15, 2017",Recently Added,Tosh.0,2009,9,20,Tosh.Oh That's What They're Up to Now Pt. 5,"{""amazon""=>[""B074V22CQ1"", ""B074V329D9""]}",Prg_id obtained in search:PASS,NO Error,2017-09-20

@@ -1,0 +1,7 @@
+# Logfile created on 2018-01-24 16:16:08 +0530 by logger.rb/54362
+I, [2018-01-24T16:16:24.108785 #12351]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2018-01-24T16:16:24.108892 #12351]  INFO -- : When get/put
+I, [2018-01-24T16:16:24.109233 #12351]  INFO -- : response_code_validation >>
+I, [2018-01-24T16:16:28.359534 #12351]  INFO -- : OzoneResponseCodeValidationCommon :: response_code_validation
+I, [2018-01-24T16:16:28.359598 #12351]  INFO -- : When get/put
+I, [2018-01-24T16:16:28.359637 #12351]  INFO -- : response_code_validation >>

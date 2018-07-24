@@ -1,0 +1,365 @@
+# Logfile created on 2018-02-27 15:48:22 +0530 by logger.rb/56815
+I, [2018-02-27T15:48:23.445289 #2495]  INFO -- : Exception captured undefined method `element' for nil:NilClass
+I, [2018-02-27T15:50:18.933183 #2810]  INFO -- : Exception captured undefined method `element' for nil:NilClass
+I, [2018-02-27T16:00:26.247768 #4503]  INFO -- : Exception captured Failed to open TCP connection to 127.0.0.1:9516 (Connection refused - connect(2) for "127.0.0.1" port 9516)
+I, [2018-02-27T16:06:31.342204 #5389]  INFO -- : Exception captured Failed to open TCP connection to 127.0.0.1:9516 (Connection refused - connect(2) for "127.0.0.1" port 9516)
+I, [2018-02-27T16:25:10.765406 #8830]  INFO -- : Exception captured Failed to open TCP connection to 127.0.0.1:9516 (Connection refused - connect(2) for "127.0.0.1" port 9516)
+I, [2018-02-27T16:33:33.804082 #11874]  INFO -- : Exception captured Failed to open TCP connection to 127.0.0.1:9516 (Connection refused - connect(2) for "127.0.0.1" port 9516)
+I, [2018-02-27T16:34:55.643060 #12232]  INFO -- : Exception captured Failed to open TCP connection to 127.0.0.1:9516 (Connection refused - connect(2) for "127.0.0.1" port 9516)
+I, [2018-02-27T16:44:04.750273 #13709]  INFO -- : Exception captured Failed to open TCP connection to 127.0.0.1:9516 (Connection refused - connect(2) for "127.0.0.1" port 9516)
+I, [2018-02-27T16:44:33.998688 #14025]  INFO -- : Exception captured unknown error: Runtime.executionContextCreated has invalid 'context': {"auxData":{"frameId":"(E5D7DAE599BD4C4CD42C46EEA76EB602)","isDefault":true},"id":1,"name":"","origin":"://"}
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.9.248304,platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:45:08.835907 #14499]  INFO -- : Exception captured unknown error: Runtime.executionContextCreated has invalid 'context': {"auxData":{"frameId":"(563C76EC52DD022C18487FF361DA22E0)","isDefault":true},"id":1,"name":"","origin":"://"}
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.9.248304,platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:47:05.358948 #15117]  INFO -- : Exception captured Failed to open TCP connection to 127.0.0.1:9516 (Connection refused - connect(2) for "127.0.0.1" port 9516)
+I, [2018-02-27T16:53:06.942507 #16411]  INFO -- : https://www.justwatch.com/us/provider/netflix/new
+I, [2018-02-27T16:53:06.951181 #16411]  INFO -- : https://www.justwatch.com/us/provider/hulu/new
+I, [2018-02-27T16:53:07.511149 #16411]  INFO -- : https://www.justwatch.com/us/provider/amazon-prime-video/new
+I, [2018-02-27T16:53:07.903012 #16411]  INFO -- : https://www.justwatch.com/us/provider/yahoo-view/new
+I, [2018-02-27T16:53:07.915851 #16411]  INFO -- : https://www.justwatch.com/us/provider/amazon-instant-video/new
+I, [2018-02-27T16:53:08.364027 #16411]  INFO -- : https://www.justwatch.com/us/provider/hbo-now/new
+I, [2018-02-27T16:53:08.701874 #16411]  INFO -- : https://www.justwatch.com/us/provider/the-cw/new
+I, [2018-02-27T16:53:08.714105 #16411]  INFO -- : https://www.justwatch.com/us/provider/google-play-movies/new
+I, [2018-02-27T16:53:08.725473 #16411]  INFO -- : https://www.justwatch.com/us/provider/starz/new
+I, [2018-02-27T16:53:08.900364 #16411]  INFO -- : https://www.justwatch.com/us/provider/apple-itunes/new
+I, [2018-02-27T16:53:09.210521 #16411]  INFO -- : https://www.justwatch.com/us/provider/fandangonow/new
+I, [2018-02-27T16:53:09.223301 #16411]  INFO -- : https://www.justwatch.com/us/provider/vudu/new
+I, [2018-02-27T16:53:10.054464 #16411]  INFO -- : https://www.justwatch.com/us/provider/youtube-red/new
+I, [2018-02-27T16:53:10.087456 #16411]  INFO -- : https://www.justwatch.com/us/provider/cbs/new
+I, [2018-02-27T16:53:10.104676 #16411]  INFO -- : https://www.justwatch.com/us/provider/showtime/new
+I, [2018-02-27T16:53:10.317214 #16411]  INFO -- : https://www.justwatch.com/us/provider/fxnow/new
+I, [2018-02-27T16:53:10.330337 #16411]  INFO -- : https://www.justwatch.com/us/provider/tubi-tv/new
+I, [2018-02-27T16:53:10.341286 #16411]  INFO -- : https://www.justwatch.com/us/provider/playstation/new
+I, [2018-02-27T16:53:10.341348 #16411]  INFO -- : https://www.justwatch.com/us/provider/playstation/new
+I, [2018-02-27T16:53:11.472883 #16411]  INFO -- : https://www.justwatch.com/us/provider/microsoft-store/new
+I, [2018-02-27T16:53:11.510340 #16411]  INFO -- : https://www.justwatch.com/us/provider/max-go/new
+I, [2018-02-27T16:53:11.532605 #16411]  INFO -- : https://www.justwatch.com/us/provider/filmstruck/new
+I, [2018-02-27T16:53:11.545503 #16411]  INFO -- : https://www.justwatch.com/us/provider/hbo-go/new
+I, [2018-02-27T16:53:11.635758 #16411]  INFO -- : https://www.justwatch.com/us/provider/abc/new
+I, [2018-02-27T16:53:11.682769 #16411]  INFO -- : https://www.justwatch.com/us/provider/crackle/new
+I, [2018-02-27T16:53:11.696048 #16411]  INFO -- : https://www.justwatch.com/us/provider/amc/new
+I, [2018-02-27T16:53:11.707339 #16411]  INFO -- : https://www.justwatch.com/us/provider/fandor/new
+I, [2018-02-27T16:53:11.719067 #16411]  INFO -- : https://www.justwatch.com/us/provider/nbc/new
+I, [2018-02-27T16:53:11.802930 #16411]  INFO -- : https://www.justwatch.com/us/provider/epix/new
+I, [2018-02-27T16:53:11.850485 #16411]  INFO -- : https://www.justwatch.com/us/provider/history/new
+I, [2018-02-27T16:53:11.863737 #16411]  INFO -- : https://www.justwatch.com/us/provider/aande/new
+I, [2018-02-27T16:53:11.875413 #16411]  INFO -- : https://www.justwatch.com/us/provider/lifetime/new
+I, [2018-02-27T16:53:11.886378 #16411]  INFO -- : https://www.justwatch.com/us/provider/shudder/new
+I, [2018-02-27T16:53:11.898044 #16411]  INFO -- : https://www.justwatch.com/us/provider/screambox/new
+I, [2018-02-27T16:53:11.909897 #16411]  INFO -- : https://www.justwatch.com/us/provider/acorn-tv/new
+I, [2018-02-27T16:53:11.921509 #16411]  INFO -- : https://www.justwatch.com/us/provider/sundance-now/new
+I, [2018-02-27T16:53:11.933231 #16411]  INFO -- : https://www.justwatch.com/us/provider/britbox/new
+I, [2018-02-27T16:53:11.944339 #16411]  INFO -- : https://www.justwatch.com/us/provider/guidedoc/new
+I, [2018-02-27T16:53:11.955012 #16411]  INFO -- : https://www.justwatch.com/us/provider/realeyz/new
+I, [2018-02-27T16:53:11.966339 #16411]  INFO -- : https://www.justwatch.com/us/provider/mubi/new
+I, [2018-02-27T16:53:12.003262 #16411]  INFO -- : https://www.justwatch.com/us/provider/netflix-kids/new
+I, [2018-02-27T16:53:12.050823 #16411]  INFO -- : service can't be clicked
+I, [2018-02-27T16:53:12.141032 #16411]  INFO -- : tv show clicked
+I, [2018-02-27T16:53:21.249839 #16411]  INFO -- : 45
+I, [2018-02-27T16:53:21.249904 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>0}>
+I, [2018-02-27T16:53:21.258511 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>1}>
+I, [2018-02-27T16:53:21.267123 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>2}>
+I, [2018-02-27T16:53:21.281556 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>3}>
+I, [2018-02-27T16:53:21.296628 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>4}>
+I, [2018-02-27T16:53:21.306314 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>5}>
+I, [2018-02-27T16:53:21.321140 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>6}>
+I, [2018-02-27T16:53:21.336911 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>7}>
+I, [2018-02-27T16:53:21.351393 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>8}>
+I, [2018-02-27T16:53:21.366062 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>9}>
+I, [2018-02-27T16:53:21.380096 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>10}>
+I, [2018-02-27T16:53:21.395213 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>11}>
+I, [2018-02-27T16:53:21.405254 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>12}>
+I, [2018-02-27T16:53:21.418898 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>13}>
+I, [2018-02-27T16:53:21.432748 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>14}>
+I, [2018-02-27T16:53:21.446487 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>15}>
+I, [2018-02-27T16:53:21.456602 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>16}>
+I, [2018-02-27T16:53:21.469822 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>17}>
+I, [2018-02-27T16:53:21.484834 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>18}>
+I, [2018-02-27T16:53:21.498581 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>19}>
+I, [2018-02-27T16:53:21.511716 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>20}>
+I, [2018-02-27T16:53:21.521152 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>21}>
+I, [2018-02-27T16:53:21.530568 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>22}>
+I, [2018-02-27T16:53:21.539235 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>23}>
+I, [2018-02-27T16:53:21.547758 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>24}>
+I, [2018-02-27T16:53:21.556525 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>25}>
+I, [2018-02-27T16:53:21.565823 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>26}>
+I, [2018-02-27T16:53:21.574873 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>27}>
+I, [2018-02-27T16:53:21.583170 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>28}>
+I, [2018-02-27T16:53:21.592005 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>29}>
+I, [2018-02-27T16:53:21.600596 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>30}>
+I, [2018-02-27T16:53:21.609570 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>31}>
+I, [2018-02-27T16:53:21.617936 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>32}>
+I, [2018-02-27T16:53:21.625983 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>33}>
+I, [2018-02-27T16:53:21.634294 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>34}>
+I, [2018-02-27T16:53:21.642332 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>35}>
+I, [2018-02-27T16:53:21.652123 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>36}>
+I, [2018-02-27T16:53:21.660576 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>37}>
+I, [2018-02-27T16:53:21.669036 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>38}>
+I, [2018-02-27T16:53:21.687110 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>39}>
+I, [2018-02-27T16:53:21.705455 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>40}>
+I, [2018-02-27T16:53:21.723770 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>41}>
+I, [2018-02-27T16:53:21.737779 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>42}>
+I, [2018-02-27T16:53:21.751814 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>43}>
+I, [2018-02-27T16:53:21.765347 #16411]  INFO -- : #<Watir::Anchor: located: true; {:xpath=>"//div[@class='timeline']//div[contains(@class, 'timeline__timeframe')][2]//div[@class='main-content__poster__image']/a", :tag_name=>"a", :index=>44}>
+I, [2018-02-27T16:53:21.779027 #16411]  INFO -- : ["https://www.justwatch.com/us/tv-show/breaking-bad/season-3", "https://www.justwatch.com/us/tv-show/breaking-bad/season-2", "https://www.justwatch.com/us/tv-show/the-blacklist/season-2", "https://www.justwatch.com/us/tv-show/the-blacklist/season-4", "https://www.justwatch.com/us/tv-show/the-blacklist/season-1", "https://www.justwatch.com/us/tv-show/the-blacklist/season-3", "https://www.justwatch.com/us/tv-show/top-gear/season-25", "https://www.justwatch.com/us/tv-show/married-with-children/season-5", "https://www.justwatch.com/us/tv-show/the-goldbergs/season-4", "https://www.justwatch.com/us/tv-show/silent-witness/season-21", "https://www.justwatch.com/us/tv-show/the-goldbergs/season-3", "https://www.justwatch.com/us/tv-show/the-night-shift/season-4", "https://www.justwatch.com/us/tv-show/scrotal-recall/season-2", "https://www.justwatch.com/us/tv-show/tales-of-zestiria-the-x/season-2", "https://www.justwatch.com/us/tv-show/rebecka-martinsson/season-1", "https://www.justwatch.com/us/tv-show/for-the-people/season-1", "https://www.justwatch.com/us/tv-show/life-sentence/season-1", "https://www.justwatch.com/us/tv-show/how-the-west-was-won/season-3", "https://www.justwatch.com/us/tv-show/up-the-women/season-1", "https://www.justwatch.com/us/tv-show/up-the-women/season-2", "https://www.justwatch.com/us/tv-show/supermansion/season-2", "https://www.justwatch.com/us/tv-show/glee/season-1", "https://www.justwatch.com/us/tv-show/glee/season-2", "https://www.justwatch.com/us/tv-show/kokukoku-moment-by-moment/season-1", "https://www.justwatch.com/us/tv-show/rowan-and-martins-laugh-in/season-6", "https://www.justwatch.com/us/tv-show/la-ink/season-1", "https://www.justwatch.com/us/tv-show/my-strange-addiction/season-3", "https://www.justwatch.com/us/tv-show/seinfeld/season-4", "https://www.justwatch.com/us/tv-show/close-up-with-the-hollywood-reporter/season-3", "https://www.justwatch.com/us/tv-show/teen-titans-go/season-1", "https://www.justwatch.com/us/tv-show/basilisk-the-ouka-ninja-scrolls/season-1", "https://www.justwatch.com/us/tv-show/fox-news-sunday/season-1", "https://www.justwatch.com/us/tv-show/crashing-2017/season-2", "https://www.justwatch.com/us/tv-show/last-week-tonight-with-john-oliver/season-5", "https://www.justwatch.com/us/tv-show/divorce/season-2", "https://www.justwatch.com/us/tv-show/here-and-now/season-1", "https://www.justwatch.com/us/tv-show/homeland/season-7", "https://www.justwatch.com/us/tv-show/the-chi/season-1", "https://www.justwatch.com/us/tv-show/our-cartoon-president/season-1", "https://www.justwatch.com/us/tv-show/la-guerre-des-clans/season-4"]
+I, [2018-02-27T16:53:30.031304 #16411]  INFO -- : unable to locate element: #<Watir::HTMLElement: located: false; {:xpath=>"//div[contains(@class, 'detail-infos')]//h1[contains(@class,'detail-infos')]/span/a/span"}>; Maybe look in an iframe? (Watir::Exception::UnknownObjectException)
+/var/lib/gems/2.4.0/gems/watir-6.10.3/lib/watir/elements/element.rb:664:in `rescue in element_call'
+/var/lib/gems/2.4.0/gems/watir-6.10.3/lib/watir/elements/element.rb:680:in `element_call'
+/var/lib/gems/2.4.0/gems/watir-6.10.3/lib/watir/elements/element.rb:94:in `text'
+/home/rishabh/Documents/Surbhi/Justwatch/justwatch_functions.rb:33:in `catch_error_at_element'
+/home/rishabh/Documents/Surbhi/Justwatch/justwatch_functions.rb:107:in `block in scrape_data_tvshows'
+/home/rishabh/Documents/Surbhi/Justwatch/justwatch_functions.rb:99:in `each'
+/home/rishabh/Documents/Surbhi/Justwatch/justwatch_functions.rb:99:in `scrape_data_tvshows'
+justwatch.rb:12:in `irb_binding'
+/usr/lib/ruby/2.4.0/irb/workspace.rb:87:in `eval'
+/usr/lib/ruby/2.4.0/irb/workspace.rb:87:in `evaluate'
+/usr/lib/ruby/2.4.0/irb/context.rb:381:in `evaluate'
+/usr/lib/ruby/2.4.0/irb.rb:493:in `block (2 levels) in eval_input'
+/usr/lib/ruby/2.4.0/irb.rb:627:in `signal_status'
+/usr/lib/ruby/2.4.0/irb.rb:490:in `block in eval_input'
+/usr/lib/ruby/2.4.0/irb/ruby-lex.rb:246:in `block (2 levels) in each_top_level_statement'
+/usr/lib/ruby/2.4.0/irb/ruby-lex.rb:232:in `loop'
+/usr/lib/ruby/2.4.0/irb/ruby-lex.rb:232:in `block in each_top_level_statement'
+/usr/lib/ruby/2.4.0/irb/ruby-lex.rb:231:in `catch'
+/usr/lib/ruby/2.4.0/irb/ruby-lex.rb:231:in `each_top_level_statement'
+/usr/lib/ruby/2.4.0/irb.rb:489:in `eval_input'
+/usr/lib/ruby/2.4.0/irb.rb:430:in `block in run'
+/usr/lib/ruby/2.4.0/irb.rb:429:in `catch'
+/usr/lib/ruby/2.4.0/irb.rb:429:in `run'
+/usr/lib/ruby/2.4.0/irb.rb:385:in `start'
+/usr/bin/irb:11:in `<main>'
+I, [2018-02-27T16:53:30.031418 #16411]  INFO -- : Series title: 
+I, [2018-02-27T16:53:30.065485 #16411]  INFO -- : unable to locate element: #<Watir::HTMLElement: located: false; {:xpath=>"(//span[contains(@class,'detail-infos__episodes')]/span)[1]"}>; Maybe look in an iframe? (Watir::Exception::UnknownObjectException)
+/var/lib/gems/2.4.0/gems/watir-6.10.3/lib/watir/elements/element.rb:664:in `rescue in element_call'
+/var/lib/gems/2.4.0/gems/watir-6.10.3/lib/watir/elements/element.rb:680:in `element_call'
+/var/lib/gems/2.4.0/gems/watir-6.10.3/lib/watir/elements/element.rb:94:in `text'
+/home/rishabh/Documents/Surbhi/Justwatch/justwatch_functions.rb:33:in `catch_error_at_element'
+/home/rishabh/Documents/Surbhi/Justwatch/justwatch_functions.rb:109:in `block in scrape_data_tvshows'
+/home/rishabh/Documents/Surbhi/Justwatch/justwatch_functions.rb:99:in `each'
+/home/rishabh/Documents/Surbhi/Justwatch/justwatch_functions.rb:99:in `scrape_data_tvshows'
+justwatch.rb:12:in `irb_binding'
+/usr/lib/ruby/2.4.0/irb/workspace.rb:87:in `eval'
+/usr/lib/ruby/2.4.0/irb/workspace.rb:87:in `evaluate'
+/usr/lib/ruby/2.4.0/irb/context.rb:381:in `evaluate'
+/usr/lib/ruby/2.4.0/irb.rb:493:in `block (2 levels) in eval_input'
+/usr/lib/ruby/2.4.0/irb.rb:627:in `signal_status'
+/usr/lib/ruby/2.4.0/irb.rb:490:in `block in eval_input'
+/usr/lib/ruby/2.4.0/irb/ruby-lex.rb:246:in `block (2 levels) in each_top_level_statement'
+/usr/lib/ruby/2.4.0/irb/ruby-lex.rb:232:in `loop'
+/usr/lib/ruby/2.4.0/irb/ruby-lex.rb:232:in `block in each_top_level_statement'
+/usr/lib/ruby/2.4.0/irb/ruby-lex.rb:231:in `catch'
+/usr/lib/ruby/2.4.0/irb/ruby-lex.rb:231:in `each_top_level_statement'
+/usr/lib/ruby/2.4.0/irb.rb:489:in `eval_input'
+/usr/lib/ruby/2.4.0/irb.rb:430:in `block in run'
+/usr/lib/ruby/2.4.0/irb.rb:429:in `catch'
+/usr/lib/ruby/2.4.0/irb.rb:429:in `run'
+/usr/lib/ruby/2.4.0/irb.rb:385:in `start'
+/usr/bin/irb:11:in `<main>'
+I, [2018-02-27T16:53:30.065597 #16411]  INFO -- : Episode Details:  
+I, [2018-02-27T16:53:30.097081 #16411]  INFO -- : Exception captured unable to locate element: #<Watir::HTMLElement: located: false; {:xpath=>"(//span[contains(@class,'detail-infos__episodes')]/span)[1]"}>; Maybe look in an iframe?; Maybe look in an iframe?
+I, [2018-02-27T16:53:30.097134 #16411]  INFO -- : {}
+I, [2018-02-27T16:53:38.022577 #16411]  INFO -- : Series title: Breaking Bad
+I, [2018-02-27T16:53:38.047278 #16411]  INFO -- : Episode Details:  S5 E16
+I, [2018-02-27T16:53:38.185166 #16411]  INFO -- : Episode title:  Felina
+I, [2018-02-27T16:53:38.185266 #16411]  INFO -- : EPI NUM: 16 SSN NUM: 5
+I, [2018-02-27T16:53:38.516598 #16411]  INFO -- : Release year:  2008
+I, [2018-02-27T16:53:38.516660 #16411]  INFO -- : []
+I, [2018-02-27T16:53:38.516677 #16411]  INFO -- : {}
+I, [2018-02-27T16:53:45.229494 #16411]  INFO -- : Series title: The Blacklist
+I, [2018-02-27T16:53:45.248160 #16411]  INFO -- : Episode Details:  S5 E13
+I, [2018-02-27T16:53:45.410431 #16411]  INFO -- : Episode title:  The Invisible Hand
+I, [2018-02-27T16:53:45.410496 #16411]  INFO -- : EPI NUM: 13 SSN NUM: 5
+I, [2018-02-27T16:53:45.879998 #16411]  INFO -- : Release year:  2013
+I, [2018-02-27T16:54:30.126811 #16411]  INFO -- : ["https://www.nbc.com/the-blacklist/video/the-invisible-hand/3661903", "https://www.amazon.com/gp/product/B079NTGDZ7?camp=1789&creativeASIN=B079NTGDZ7&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://itunes.apple.com/us/tv-season/the-invisible-hand-63/id1269354332?i=1346135884&ign-mpt=uo%3D4", "https://www.vudu.com/content/movies/details/title/923319"]
+I, [2018-02-27T16:54:30.127058 #16411]  INFO -- : {"nbc"=>["36619"], "amazon"=>["B079NTGDZ7"], "itunes"=>["1346135884"], "vudu"=>["923319"]}
+I, [2018-02-27T16:54:37.415577 #16411]  INFO -- : Series title: The Blacklist
+I, [2018-02-27T16:54:37.440104 #16411]  INFO -- : Episode Details:  S5 E13
+I, [2018-02-27T16:54:37.613617 #16411]  INFO -- : Episode title:  The Invisible Hand
+I, [2018-02-27T16:54:37.613690 #16411]  INFO -- : EPI NUM: 13 SSN NUM: 5
+I, [2018-02-27T16:54:38.095257 #16411]  INFO -- : Release year:  2013
+I, [2018-02-27T16:54:53.969544 #16411]  INFO -- : ["https://www.nbc.com/the-blacklist/video/the-invisible-hand/3661903", "https://www.amazon.com/gp/product/B079NTGDZ7?camp=1789&creativeASIN=B079NTGDZ7&ie=UTF8&linkCode=xm2&tag=justwatch09-20", "https://itunes.apple.com/us/tv-season/the-invisible-hand-63/id1269354332?i=1346135884&ign-mpt=uo%3D4", "https://www.vudu.com/content/movies/details/title/923319"]
+I, [2018-02-27T16:54:53.969956 #16411]  INFO -- : {"nbc"=>["36619"], "amazon"=>["B079NTGDZ7"], "itunes"=>["1346135884"], "vudu"=>["923319"]}
+I, [2018-02-27T16:55:00.843527 #16411]  INFO -- : Series title: The Blacklist
+I, [2018-02-27T16:55:00.876894 #16411]  INFO -- : Episode Details:  S5 E13
+I, [2018-02-27T16:55:01.108263 #16411]  INFO -- : Episode title:  The Invisible Hand
+I, [2018-02-27T16:55:01.108360 #16411]  INFO -- : EPI NUM: 13 SSN NUM: 5
+I, [2018-02-27T16:55:01.640402 #16411]  INFO -- : Release year:  2013
+I, [2018-02-27T16:55:12.016824 #16411]  INFO -- : Exception captured browser window was closed
+I, [2018-02-27T16:55:12.016907 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:13.024249 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:13.024315 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:14.033605 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:14.033781 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:15.044516 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:15.044694 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:16.052275 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:16.052341 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:17.060821 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:17.060905 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:18.070430 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:18.070611 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:19.075017 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:19.075102 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:20.085519 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:20.085706 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:21.093308 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:21.093375 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:22.103383 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:22.103558 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:23.114736 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:23.114923 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:24.122515 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:24.122578 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:25.129422 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:25.129485 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:26.139885 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:26.140074 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:27.148932 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:27.148993 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:28.160585 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:28.161211 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:29.164625 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:29.164689 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:30.167484 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:30.167543 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:31.170584 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:31.170657 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:32.182146 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:32.182329 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:33.185892 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:33.185964 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:34.194552 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:34.194732 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:35.197893 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:35.197957 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:36.207354 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:36.207532 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:37.210670 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:37.210723 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:38.219813 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:38.220009 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:39.228932 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:39.229117 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:40.238996 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:40.239262 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:41.244821 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:41.244924 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:42.253798 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:42.253972 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:43.263289 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:43.263450 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:44.273131 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:44.273324 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:45.278340 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:45.278440 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:46.289657 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:46.289842 #16411]  INFO -- : {}
+I, [2018-02-27T16:55:47.299265 #16411]  INFO -- : Exception captured no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.35.528139 (47ead77cb35ad2a9a83248b292151462a66cd881),platform=Linux 4.13.0-36-generic x86_64)
+I, [2018-02-27T16:55:47.299426 #16411]  INFO -- : {}
